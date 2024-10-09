@@ -1,0 +1,41 @@
+"Countries","Metric","Count"
+"India","total_cases",1363250
+"India","total_deaths",509438
+"Haiti","total_cases",795794
+"Haiti","total_deaths",9411
+"Peru","total_cases",736195
+"Peru","total_deaths",5285
+"Democratic Republic of the Congo","total_cases",521607
+"Democratic Republic of the Congo","total_deaths",22457
+"Indonesia","total_cases",394945
+"Indonesia","total_deaths",30600
+"Mozambique","total_cases",327913
+"Mozambique","total_deaths",7696
+"Somalia","total_cases",311203
+"Somalia","total_deaths",10859
+"Nigeria","total_cases",310217
+"Nigeria","total_deaths",21479
+"Bangladesh","total_cases",294647
+"Bangladesh","total_deaths",137429
+"Afghanistan","total_cases",263843
+"Afghanistan","total_deaths",2641
+"United Republic of Tanzania","total_cases",228048
+"United Republic of Tanzania","total_deaths",12725
+"Angola","total_cases",191036
+"Angola","total_deaths",9920
+"South Africa","total_cases",186463
+"South Africa","total_deaths",904
+"Brazil","total_cases",173220
+"Brazil","total_deaths",1774
+"Ghana","total_cases",167934
+"Ghana","total_deaths",5849
+"Zimbabwe","total_cases",153428
+"Zimbabwe","total_deaths",7137
+"Malawi","total_cases",142935
+"Malawi","total_deaths",3464
+"Ethiopia","total_cases",118297
+"Ethiopia","total_deaths",1521
+"Kenya","total_cases",118214
+"Kenya","total_deaths",3873
+"Uganda","total_cases",108877
+"Uganda","total_deaths",4408

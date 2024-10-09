@@ -1,0 +1,325 @@
+"Countries","Metric","Count"
+"India","total_cases",1363250
+"India","total_deaths",509438
+"Haiti","total_cases",795794
+"Haiti","total_deaths",9411
+"Peru","total_cases",736195
+"Peru","total_deaths",5285
+"Democratic Republic of the Congo","total_cases",521607
+"Democratic Republic of the Congo","total_deaths",22457
+"Indonesia","total_cases",394945
+"Indonesia","total_deaths",30600
+"Mozambique","total_cases",327913
+"Mozambique","total_deaths",7696
+"Somalia","total_cases",311203
+"Somalia","total_deaths",10859
+"Nigeria","total_cases",310217
+"Nigeria","total_deaths",21479
+"Bangladesh","total_cases",294647
+"Bangladesh","total_deaths",137429
+"Afghanistan","total_cases",263843
+"Afghanistan","total_deaths",2641
+"United Republic of Tanzania","total_cases",228048
+"United Republic of Tanzania","total_deaths",12725
+"Angola","total_cases",191036
+"Angola","total_deaths",9920
+"South Africa","total_cases",186463
+"South Africa","total_deaths",904
+"Brazil","total_cases",173220
+"Brazil","total_deaths",1774
+"Ghana","total_cases",167934
+"Ghana","total_deaths",5849
+"Zimbabwe","total_cases",153428
+"Zimbabwe","total_deaths",7137
+"Malawi","total_cases",142935
+"Malawi","total_deaths",3464
+"Ethiopia","total_cases",118297
+"Ethiopia","total_deaths",1521
+"Kenya","total_cases",118214
+"Kenya","total_deaths",3873
+"Uganda","total_cases",108877
+"Uganda","total_deaths",4408
+"Philippines","total_cases",98835
+"Philippines","total_deaths",7851
+"Zambia","total_cases",97606
+"Zambia","total_deaths",4877
+"Guinea-Bissau","total_cases",95657
+"Guinea-Bissau","total_deaths",2089
+"Ecuador","total_cases",93972
+"Ecuador","total_deaths",1069
+"China","total_cases",86905
+"China","total_deaths",727
+"Liberia","total_cases",85354
+"Liberia","total_deaths",848
+"Chad","total_cases",80846
+"Chad","total_deaths",6170
+"Sudan","total_cases",80634
+"Sudan","total_deaths",2098
+"Cameroon","total_cases",76422
+"Cameroon","total_deaths",4431
+"Guatemala","total_cases",74430
+"Guatemala","total_deaths",771
+"Viet Nam","total_cases",73128
+"Viet Nam","total_deaths",1592
+"Iran (Islamic Republic of)","total_cases",72794
+"Iran (Islamic Republic of)","total_deaths",488
+"Guinea","total_cases",68305
+"Guinea","total_deaths",2469
+"Nepal","total_cases",68011
+"Nepal","total_deaths",1934
+"Senegal","total_cases",67623
+"Senegal","total_deaths",2486
+"Sierra Leone","total_cases",61844
+"Sierra Leone","total_deaths",2475
+"Thailand","total_cases",55982
+"Thailand","total_deaths",2969
+"Yemen","total_cases",52462
+"Yemen","total_deaths",572
+"Madagascar","total_cases",46531
+"Madagascar","total_deaths",2634
+"Mexico","total_cases",45781
+"Mexico","total_deaths",526
+"Bolivia (Plurinational State of)","total_cases",42548
+"Bolivia (Plurinational State of)","total_deaths",854
+"Niger","total_cases",40624
+"Niger","total_deaths",4220
+"Myanmar","total_cases",38847
+"Myanmar","total_deaths",10394
+"Colombia","total_cases",36678
+"Colombia","total_deaths",523
+"Burundi","total_cases",35219
+"Burundi","total_deaths",782
+"Mali","total_cases",33620
+"Mali","total_deaths",4635
+"Dominican Republic","total_cases",33223
+"Dominican Republic","total_deaths",499
+"Nicaragua","total_cases",32442
+"Nicaragua","total_deaths",743
+"El Salvador","total_cases",31860
+"El Salvador","total_deaths",137
+"Benin","total_cases",31581
+"Benin","total_deaths",1108
+"Pakistan","total_cases",28301
+"Pakistan","total_deaths",1772
+"Malaysia","total_cases",25466
+"Malaysia","total_deaths",597
+"Cote d'Ivoire","total_cases",24303
+"Cote d'Ivoire","total_deaths",1069
+"Iraq","total_cases",22728
+"Iraq","total_deaths",106
+"Congo","total_cases",20166
+"Congo","total_deaths",525
+"Djibouti","total_cases",19430
+"Djibouti","total_deaths",342
+"Lao People's Democratic Republic","total_cases",18352
+"Lao People's Democratic Republic","total_deaths",1114
+"Comoros","total_cases",17866
+"Comoros","total_deaths",519
+"Mauritania","total_cases",17765
+"Mauritania","total_deaths",649
+"Cambodia","total_cases",17392
+"Cambodia","total_deaths",1054
+"Togo","total_cases",16344
+"Togo","total_deaths",769
+"Honduras","total_cases",15382
+"Honduras","total_deaths",329
+"Cabo Verde","total_cases",14144
+"Cabo Verde","total_deaths",284
+"Papua New Guinea","total_cases",13782
+"Papua New Guinea","total_deaths",606
+"Algeria","total_cases",12729
+"Algeria","total_deaths",650
+"Burkina Faso","total_cases",12707
+"Burkina Faso","total_deaths",1424
+"South Sudan","total_cases",12534
+"South Sudan","total_deaths",296
+"Rwanda","total_cases",11813
+"Rwanda","total_deaths",394
+"Maldives","total_cases",11336
+"Maldives","total_deaths",220
+"Sri Lanka","total_cases",10461
+"Sri Lanka","total_deaths",598
+"Eswatini","total_cases",10107
+"Eswatini","total_deaths",214
+"Sao Tome and Principe","total_cases",7861
+"Sao Tome and Principe","total_deaths",120
+"Venezuela (Bolivarian Republic of)","total_cases",6969
+"Venezuela (Bolivarian Republic of)","total_deaths",163
+"Equatorial Guinea","total_cases",6962
+"Equatorial Guinea","total_deaths",66
+"Morocco","total_cases",4644
+"Morocco","total_deaths",137
+"Argentina","total_cases",4550
+"Argentina","total_deaths",82
+"Syrian Arab Republic","total_cases",4472
+"Syrian Arab Republic","total_deaths",138
+"Namibia","total_cases",4342
+"Namibia","total_deaths",59
+"Panama","total_cases",3636
+"Panama","total_deaths",82
+"Portugal","total_cases",3599
+"Portugal","total_deaths",60
+"Micronesia (Federated States of)","total_cases",3501
+"Micronesia (Federated States of)","total_deaths",21
+"Republic of Korea","total_cases",2985
+"Republic of Korea","total_deaths",207
+"Russian Federation","total_cases",2029
+"Russian Federation","total_deaths",18
+"Kiribati","total_cases",1801
+"Kiribati","total_deaths",21
+"Japan","total_cases",1723
+"Japan","total_deaths",5
+"Jordan","total_cases",1595
+"Jordan","total_deaths",5
+"Ukraine","total_cases",1448
+"Ukraine","total_deaths",30
+"Libya","total_cases",1173
+"Libya","total_deaths",30
+"Bahrain","total_cases",1065
+"Bahrain","total_deaths",6
+"Bhutan","total_cases",960
+"Bhutan","total_deaths",25
+"Central African Republic","total_cases",923
+"Central African Republic","total_deaths",141
+"Saudi Arabia","total_cases",908
+"Saudi Arabia","total_deaths",66
+"Singapore","total_cases",893
+"Singapore","total_deaths",28
+"Cuba","total_cases",739
+"Cuba","total_deaths",3
+"Romania","total_cases",712
+"Romania","total_deaths",25
+"Tunisia","total_cases",687
+"Tunisia","total_deaths",16
+"Gabon","total_cases",649
+"Gabon","total_deaths",2
+"Turkmenistan","total_cases",647
+"Turkmenistan","total_deaths",8
+"Guyana","total_cases",642
+"Guyana","total_deaths",10
+"Albania","total_cases",626
+"Albania","total_deaths",25
+"United Kingdom of Great Britain and Northern Ireland","total_cases",442
+"United Kingdom of Great Britain and Northern Ireland","total_deaths",1
+"United States of America","total_cases",439
+"United States of America","total_deaths",1
+"Lebanon","total_cases",432
+"Lebanon","total_deaths",24
+"Turkiye","total_cases",401
+"Turkiye","total_deaths",52
+"Belize","total_cases",387
+"Belize","total_deaths",10
+"Spain","total_cases",360
+"Spain","total_deaths",0
+"Tuvalu","total_cases",335
+"Tuvalu","total_deaths",8
+"Brunei Darussalam","total_cases",325
+"Brunei Darussalam","total_deaths",6
+"Kuwait","total_cases",325
+"Kuwait","total_deaths",1
+"Italy","total_cases",307
+"Italy","total_deaths",41
+"Marshall Islands","total_cases",300
+"Marshall Islands","total_deaths",6
+"Gambia","total_cases",252
+"Gambia","total_deaths",14
+"Republic of Moldova","total_cases",249
+"Republic of Moldova","total_deaths",5
+"Israel","total_cases",202
+"Israel","total_deaths",10
+"France","total_cases",184
+"France","total_deaths",1
+"Chile","total_cases",180
+"Chile","total_deaths",5
+"Seychelles","total_cases",178
+"Seychelles","total_deaths",1
+"Democratic People's Republic of Korea","total_cases",177
+"Democratic People's Republic of Korea","total_deaths",0
+"Mongolia","total_cases",177
+"Mongolia","total_deaths",12
+"Tajikistan","total_cases",175
+"Tajikistan","total_deaths",5
+"Tonga","total_cases",145
+"Tonga","total_deaths",2
+"Australia","total_cases",127
+"Australia","total_deaths",0
+"Eritrea","total_cases",120
+"Eritrea","total_deaths",9
+"Costa Rica","total_cases",108
+"Costa Rica","total_deaths",1
+"Kazakhstan","total_cases",99
+"Kazakhstan","total_deaths",0
+"Nauru","total_cases",88
+"Nauru","total_deaths",0
+"Canada","total_cases",81
+"Canada","total_deaths",1
+"Germany","total_cases",70
+"Germany","total_deaths",1
+"Netherlands (Kingdom of the)","total_cases",60
+"Netherlands (Kingdom of the)","total_deaths",1
+"Sweden","total_cases",29
+"Sweden","total_deaths",0
+"Armenia","total_cases",25
+"Armenia","total_deaths",0
+"Botswana","total_cases",23
+"Botswana","total_deaths",3
+"Azerbaijan","total_cases",18
+"Azerbaijan","total_deaths",0
+"New Zealand","total_cases",18
+"New Zealand","total_deaths",1
+"Oman","total_cases",18
+"Oman","total_deaths",8
+"Switzerland","total_cases",16
+"Switzerland","total_deaths",0
+"Paraguay","total_cases",12
+"Paraguay","total_deaths",0
+"Suriname","total_cases",12
+"Suriname","total_deaths",1
+"Denmark","total_cases",11
+"Denmark","total_deaths",0
+"The former state union Serbia and Montenegro","total_cases",11
+"The former state union Serbia and Montenegro","total_deaths",1
+"Belgium","total_cases",10
+"Belgium","total_deaths",0
+"Austria","total_cases",9
+"Austria","total_deaths",0
+"Norway","total_cases",9
+"Norway","total_deaths",0
+"Georgia","total_cases",8
+"Georgia","total_deaths",0
+"Finland","total_cases",7
+"Finland","total_deaths",0
+"Belarus","total_cases",6
+"Belarus","total_deaths",0
+"Czechia","total_cases",6
+"Czechia","total_deaths",1
+"United Arab Emirates","total_cases",5
+"United Arab Emirates","total_deaths",0
+"Kyrgyzstan","total_cases",4
+"Kyrgyzstan","total_deaths",0
+"Qatar","total_cases",4
+"Qatar","total_deaths",0
+"Poland","total_cases",3
+"Poland","total_deaths",0
+"Bahamas","total_cases",2
+"Bahamas","total_deaths",0
+"Estonia","total_cases",2
+"Estonia","total_deaths",0
+"Greece","total_cases",2
+"Greece","total_deaths",0
+"Hungary","total_cases",1
+"Hungary","total_deaths",0
+"Ireland","total_cases",1
+"Ireland","total_deaths",0
+"Samoa","total_cases",1
+"Samoa","total_deaths",0
+"Uzbekistan","total_cases",1
+"Uzbekistan","total_deaths",0
+"Andorra","total_cases",0
+"Andorra","total_deaths",0
+"Lesotho","total_cases",0
+"Lesotho","total_deaths",0
+"Mauritius","total_cases",0
+"Mauritius","total_deaths",0
+"Slovenia","total_cases",0
+"Slovenia","total_deaths",0

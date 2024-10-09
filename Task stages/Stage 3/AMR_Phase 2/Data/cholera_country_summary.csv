@@ -1,0 +1,2493 @@
+"Year","Countries","Total_Cases","Total_Deaths"
+1949,"China",1,1
+1949,"Thailand",16,2
+1950,"Bangladesh",29809,12947
+1950,"Cambodia",10,1
+1950,"India",625,396
+1950,"Myanmar",4212,2785
+1950,"Viet Nam",9,4
+1951,"Bangladesh",20894,12372
+1951,"Cambodia",57,40
+1951,"India",86787,41543
+1951,"Myanmar",6753,4685
+1951,"Thailand",1,0
+1951,"Viet Nam",26,21
+1952,"Bangladesh",21154,12884
+1952,"Cambodia",24,10
+1952,"India",101493,58252
+1952,"Myanmar",347,245
+1952,"Viet Nam",7,6
+1953,"Bangladesh",27631,16904
+1953,"Cambodia",11,8
+1953,"India",213225,124227
+1953,"Lao People's Democratic Republic",31,18
+1953,"Myanmar",22,9
+1953,"Singapore",0,0
+1953,"Viet Nam",7,7
+1954,"Bangladesh",15617,9443
+1954,"Cambodia",2,2
+1954,"India",22146,19368
+1954,"Malaysia",1,0
+1954,"Myanmar",35,19
+1954,"Viet Nam",3,3
+1955,"Bangladesh",16642,9802
+1955,"Brunei Darussalam",1,0
+1955,"India",23533,7662
+1955,"Myanmar",42,12
+1956,"Bangladesh",23699,15310
+1956,"Cambodia",1,1
+1956,"India",39829,17206
+1956,"Myanmar",13,6
+1957,"Bangladesh",8054,5134
+1957,"Cambodia",6,1
+1957,"India",54961,49715
+1957,"Myanmar",10,3
+1958,"Bangladesh",15631,10119
+1958,"Bhutan",0,0
+1958,"Cambodia",3,0
+1958,"India",66849,49818
+1958,"Myanmar",7,3
+1958,"Nepal",2706,384
+1958,"Pakistan",366,86
+1958,"Thailand",10201,1426
+1959,"Bangladesh",16915,11056
+1959,"India",14852,7696
+1959,"Myanmar",3,2
+1959,"Thailand",4368,613
+1960,"Afghanistan",887,199
+1960,"Bangladesh",15618,6272
+1960,"India",14621,0
+1960,"Indonesia",41,22
+1960,"Myanmar",259,200
+1960,"Pakistan",6704,1107
+1961,"Bangladesh",2663,1703
+1961,"India",47637,26946
+1961,"Indonesia",1742,474
+1961,"Myanmar",1,0
+1961,"Philippines",9923,1405
+1962,"Bangladesh",2524,1304
+1962,"China",384,24
+1962,"India",51082,27141
+1962,"Indonesia",428,80
+1962,"Myanmar",1,0
+1962,"Papua New Guinea",1293,464
+1962,"Philippines",13015,1682
+1963,"Bangladesh",3975,1248
+1963,"Cambodia",52,13
+1963,"China",1,0
+1963,"India",44839,16357
+1963,"Indonesia",535,83
+1963,"Japan",16,0
+1963,"Malaysia",349,24
+1963,"Myanmar",3019,783
+1963,"Philippines",3979,433
+1963,"Republic of Korea",415,38
+1963,"Singapore",27,2
+1963,"Thailand",2230,156
+1964,"Bangladesh",3333,2419
+1964,"Cambodia",187,27
+1964,"India",53011,17035
+1964,"Indonesia",326,69
+1964,"Japan",2,1
+1964,"Malaysia",512,143
+1964,"Myanmar",922,171
+1964,"Philippines",16464,1518
+1964,"Republic of Korea",11,1
+1964,"Singapore",24,3
+1964,"Thailand",960,30
+1964,"Viet Nam",20186,872
+1965,"Afghanistan",218,55
+1965,"Bahrain",1,0
+1965,"Bangladesh",1123,683
+1965,"Brunei Darussalam",198,6
+1965,"India",42677,12664
+1965,"Iran (Islamic Republic of)",5037,0
+1965,"Malaysia",16,1
+1965,"Myanmar",207,8
+1965,"Nepal",727,97
+1965,"Pakistan",21,1
+1965,"Philippines",4581,448
+1965,"Thailand",65,4
+1965,"Viet Nam",1738,29
+1966,"Bangladesh",3154,1234
+1966,"Cambodia",62,5
+1966,"India",13052,2799
+1966,"Indonesia",204,36
+1966,"Iran (Islamic Republic of)",162,0
+1966,"Iraq",227,20
+1966,"Malaysia",5,0
+1966,"Myanmar",263,17
+1966,"Nepal",2,0
+1966,"Philippines",5261,273
+1966,"Thailand",401,21
+1966,"Viet Nam",8353,167
+1967,"Bangladesh",664,369
+1967,"Cambodia",4,0
+1967,"China",1,0
+1967,"India",13708,0
+1967,"Indonesia",700,139
+1967,"Iran (Islamic Republic of)",221,0
+1967,"Myanmar",9,0
+1967,"Philippines",1629,52
+1967,"Thailand",148,6
+1967,"Viet Nam",7664,71
+1968,"Bangladesh",3156,614
+1968,"Cambodia",8,1
+1968,"India",22587,0
+1968,"Indonesia",135,22
+1968,"Malaysia",15,3
+1968,"Myanmar",3,0
+1968,"Nepal",34,17
+1968,"Pakistan",3932,55
+1968,"Philippines",2787,89
+1968,"Singapore",6,0
+1968,"Thailand",404,21
+1968,"Viet Nam",1097,8
+1969,"Australia",0,0
+1969,"Bangladesh",7411,1556
+1969,"India",19280,0
+1969,"Indonesia",627,262
+1969,"Iran (Islamic Republic of)",557,0
+1969,"Japan",8,0
+1969,"Lao People's Democratic Republic",448,21
+1969,"Malaysia",70,0
+1969,"Myanmar",205,34
+1969,"Nepal",226,6
+1969,"Pakistan",717,17
+1969,"Philippines",1541,106
+1969,"Republic of Korea",1538,137
+1969,"Singapore",11,4
+1969,"Thailand",961,40
+1969,"Viet Nam",2573,26
+1970,"Bangladesh",7419,1889
+1970,"Benin",175,37
+1970,"Brunei Darussalam",24,0
+1970,"Burkina Faso",1,1
+1970,"Cote d'Ivoire",868,39
+1970,"Czechia",4,1
+1970,"Djibouti",6,3
+1970,"Ethiopia",850,72
+1970,"France",1,0
+1970,"Ghana",2733,180
+1970,"Guinea",2000,60
+1970,"India",15067,3420
+1970,"Indonesia",5997,1257
+1970,"Iran (Islamic Republic of)",19663,0
+1970,"Israel",185,10
+1970,"Japan",5,0
+1970,"Jordan",3,0
+1970,"Kuwait",4,0
+1970,"Lebanon",54,1
+1970,"Liberia",168,27
+1970,"Libya",1151,28
+1970,"Malaysia",106,3
+1970,"Mali",2665,201
+1970,"Myanmar",911,76
+1970,"Nepal",391,1
+1970,"Niger",16,8
+1970,"Nigeria",15,4
+1970,"Pakistan",2,0
+1970,"Philippines",1095,38
+1970,"Republic of Korea",475,23
+1970,"Russian Federation",720,0
+1970,"Saudi Arabia",266,14
+1970,"Sierra Leone",293,74
+1970,"Somalia",43,10
+1970,"Syrian Arab Republic",49,0
+1970,"Togo",75,3
+1970,"Tunisia",27,0
+1970,"Turkiye",384,52
+1970,"United Kingdom of Great Britain and Northern Ireland",1,0
+1970,"Viet Nam",82,1
+1971,"Algeria",1332,110
+1971,"Angola",1,0
+1971,"Bangladesh",2342,386
+1971,"Benin",2133,274
+1971,"Burkina Faso",1761,495
+1971,"Cameroon",2167,336
+1971,"Chad",8230,2411
+1971,"Cote d'Ivoire",668,9
+1971,"Djibouti",440,81
+1971,"Ethiopia",2187,124
+1971,"France",3,0
+1971,"Germany",1,0
+1971,"Ghana",13048,641
+1971,"India",71386,10478
+1971,"Indonesia",23555,3607
+1971,"Iran (Islamic Republic of)",344,0
+1971,"Israel",1,0
+1971,"Kenya",239,38
+1971,"Liberia",606,106
+1971,"Madagascar",2,0
+1971,"Malaysia",53,1
+1971,"Mali",4792,1321
+1971,"Mauritania",1139,53
+1971,"Morocco",56,0
+1971,"Myanmar",378,42
+1971,"Nepal",4,0
+1971,"Niger",9265,2344
+1971,"Nigeria",22931,2945
+1971,"Oman",9,8
+1971,"Pakistan",1185,43
+1971,"Philippines",3585,109
+1971,"Portugal",64,4
+1971,"Russian Federation",0,0
+1971,"Senegal",265,60
+1971,"Sierra Leone",211,13
+1971,"Somalia",89,10
+1971,"Spain",22,0
+1971,"Sweden",4,0
+1971,"Syrian Arab Republic",5,0
+1971,"Togo",335,26
+1971,"Uganda",757,30
+1971,"United Kingdom of Great Britain and Northern Ireland",3,0
+1971,"Viet Nam",270,1
+1971,"Yemen",190,26
+1972,"Algeria",646,71
+1972,"Angola",268,24
+1972,"Australia",40,0
+1972,"Bahrain",74,4
+1972,"Bangladesh",1059,201
+1972,"Benin",250,29
+1972,"Burkina Faso",1,0
+1972,"Cameroon",362,27
+1972,"Chad",9,3
+1972,"Djibouti",8,3
+1972,"Germany",2,0
+1972,"Ghana",625,32
+1972,"India",20435,2845
+1972,"Indonesia",44383,6956
+1972,"Iran (Islamic Republic of)",322,0
+1972,"Israel",11,0
+1972,"Kenya",51,0
+1972,"Liberia",947,28
+1972,"Malaysia",864,11
+1972,"Mali",2,0
+1972,"Mauritania",148,24
+1972,"Morocco",7,0
+1972,"Myanmar",180,7
+1972,"Nepal",1,0
+1972,"New Zealand",3,1
+1972,"Niger",51,12
+1972,"Nigeria",1363,96
+1972,"Philippines",5601,78
+1972,"Saudi Arabia",303,0
+1972,"Senegal",379,37
+1972,"Singapore",114,3
+1972,"Syrian Arab Republic",505,25
+1972,"Togo",16,0
+1972,"Tunisia",4,0
+1972,"United Arab Emirates",2,0
+1972,"United Kingdom of Great Britain and Northern Ireland",2,0
+1972,"Viet Nam",146,1
+1972,"Yemen",1064,140
+1973,"Algeria",605,74
+1973,"Angola",263,9
+1973,"Bahrain",37,0
+1973,"Bangladesh",1969,369
+1973,"Benin",3,2
+1973,"Burkina Faso",1118,249
+1973,"Cambodia",159,14
+1973,"Cameroon",206,16
+1973,"France",4,0
+1973,"Germany",6,0
+1973,"Ghana",677,39
+1973,"India",41611,5406
+1973,"Indonesia",52042,3058
+1973,"Iran (Islamic Republic of)",55,0
+1973,"Italy",278,23
+1973,"Liberia",1336,27
+1973,"Malawi",371,20
+1973,"Malaysia",369,17
+1973,"Mali",219,32
+1973,"Mauritania",150,22
+1973,"Mozambique",453,87
+1973,"Myanmar",386,24
+1973,"Nepal",7,0
+1973,"Niger",121,16
+1973,"Nigeria",157,27
+1973,"Philippines",2840,447
+1973,"Singapore",1,0
+1973,"South Africa",1,0
+1973,"Sri Lanka",118,13
+1973,"Sweden",10,0
+1973,"Thailand",844,33
+1973,"Tunisia",656,16
+1973,"United Kingdom of Great Britain and Northern Ireland",5,0
+1973,"Viet Nam",1495,18
+1973,"Yemen",215,23
+1973,"Zimbabwe",1,0
+1974,"Algeria",738,50
+1974,"Angola",934,34
+1974,"Bangladesh",5614,173
+1974,"Benin",73,4
+1974,"Burkina Faso",632,66
+1974,"Cabo Verde",303,8
+1974,"Cambodia",145,1
+1974,"Cameroon",83,16
+1974,"Chad",338,87
+1974,"France",5,0
+1974,"Germany",3,0
+1974,"Ghana",483,37
+1974,"India",30903,2289
+1974,"Indonesia",41474,3920
+1974,"Iran (Islamic Republic of)",304,0
+1974,"Kenya",402,20
+1974,"Liberia",512,12
+1974,"Malaysia",349,0
+1974,"Mali",130,21
+1974,"Mozambique",1018,138
+1974,"Myanmar",2363,203
+1974,"Nepal",8,0
+1974,"Niger",286,75
+1974,"Philippines",1730,33
+1974,"Portugal",2467,48
+1974,"Singapore",8,0
+1974,"South Africa",37,0
+1974,"Spain",5,0
+1974,"Sri Lanka",4559,333
+1974,"Sweden",1,0
+1974,"Thailand",1475,64
+1974,"Togo",58,8
+1974,"United Kingdom of Great Britain and Northern Ireland",3,0
+1974,"United Republic of Tanzania",10,6
+1974,"Viet Nam",139,2
+1974,"Yemen",6,1
+1974,"Zimbabwe",37,0
+1975,"Algeria",1165,118
+1975,"Angola",88,4
+1975,"Bangladesh",4888,117
+1975,"Benin",45,1
+1975,"Burkina Faso",3,3
+1975,"Cabo Verde",20,3
+1975,"Cambodia",66,0
+1975,"Cameroon",3,0
+1975,"Comoros",2675,238
+1975,"France",9,0
+1975,"Germany",1,0
+1975,"Ghana",187,10
+1975,"India",22049,2330
+1975,"Indonesia",48387,3715
+1975,"Iran (Islamic Republic of)",2966,0
+1975,"Italy",1,0
+1975,"Japan",3,0
+1975,"Kenya",1093,74
+1975,"Kuwait",3,1
+1975,"Liberia",704,16
+1975,"Malaysia",110,8
+1975,"Mozambique",11,3
+1975,"Myanmar",2942,172
+1975,"Nepal",260,0
+1975,"Nigeria",38,1
+1975,"Philippines",680,15
+1975,"Portugal",1066,8
+1975,"Saudi Arabia",91,48
+1975,"Singapore",10,0
+1975,"Spain",11,0
+1975,"Sri Lanka",1453,67
+1975,"Syrian Arab Republic",67,6
+1975,"Thailand",1335,88
+1975,"Uganda",3,0
+1975,"United Kingdom of Great Britain and Northern Ireland",1,0
+1975,"Viet Nam",5,0
+1975,"Yemen",1,0
+1975,"Zimbabwe",615,33
+1976,"Algeria",286,30
+1976,"Bangladesh",957,62
+1976,"Benin",146,14
+1976,"Cabo Verde",219,17
+1976,"Cameroon",135,27
+1976,"Comoros",5,1
+1976,"Djibouti",2,0
+1976,"France",5,0
+1976,"Germany",2,0
+1976,"Ghana",102,0
+1976,"India",14946,662
+1976,"Indonesia",41264,2665
+1976,"Iran (Islamic Republic of)",2100,0
+1976,"Japan",6,0
+1976,"Jordan",152,0
+1976,"Kenya",1359,59
+1976,"Kuwait",2,0
+1976,"Liberia",646,10
+1976,"Malawi",19,0
+1976,"Malaysia",246,4
+1976,"Morocco",2,0
+1976,"Mozambique",3,2
+1976,"Myanmar",1519,173
+1976,"Nepal",185,1
+1976,"Netherlands (Kingdom of the)",1,1
+1976,"Nigeria",112,25
+1976,"Pakistan",144,0
+1976,"Philippines",1258,160
+1976,"Russian Federation",1,0
+1976,"Saudi Arabia",50,0
+1976,"Spain",2,0
+1976,"Sri Lanka",728,16
+1976,"Sweden",1,0
+1976,"Syrian Arab Republic",795,11
+1976,"Thailand",6,0
+1976,"The former state union Serbia and Montenegro",3,1
+1976,"United Kingdom of Great Britain and Northern Ireland",1,0
+1976,"Viet Nam",1068,0
+1976,"Zimbabwe",144,9
+1977,"Algeria",262,9
+1977,"Angola",726,31
+1977,"Australia",2,0
+1977,"Bangladesh",10403,354
+1977,"Benin",2,0
+1977,"Djibouti",2,0
+1977,"Germany",1,0
+1977,"Ghana",6565,353
+1977,"India",8376,289
+1977,"Indonesia",17112,780
+1977,"Iran (Islamic Republic of)",10836,0
+1977,"Iraq",133,1
+1977,"Italy",2,0
+1977,"Japan",52,1
+1977,"Jordan",427,1
+1977,"Kenya",21,0
+1977,"Kiribati",1307,21
+1977,"Kuwait",13,0
+1977,"Lebanon",30,0
+1977,"Liberia",512,18
+1977,"Malawi",577,0
+1977,"Malaysia",444,12
+1977,"Mozambique",18,3
+1977,"Nepal",428,4
+1977,"Netherlands (Kingdom of the)",1,0
+1977,"Nigeria",376,10
+1977,"Pakistan",12,1
+1977,"Philippines",1363,180
+1977,"Russian Federation",1,0
+1977,"Saudi Arabia",18,0
+1977,"Sierra Leone",12,0
+1977,"Singapore",11,0
+1977,"Sri Lanka",5,0
+1977,"Switzerland",1,0
+1977,"Syrian Arab Republic",2362,66
+1977,"Thailand",383,5
+1977,"Togo",132,12
+1977,"Turkiye",17,0
+1977,"United Kingdom of Great Britain and Northern Ireland",2,0
+1977,"United Republic of Tanzania",297,26
+1977,"Viet Nam",32,0
+1978,"Algeria",220,13
+1978,"Australia",1,0
+1978,"Bahrain",906,2
+1978,"Bangladesh",5576,81
+1978,"Benin",27,0
+1978,"Burkina Faso",1,0
+1978,"Burundi",8297,248
+1978,"Cameroon",3,0
+1978,"Congo",51,14
+1978,"Democratic Republic of the Congo",3481,183
+1978,"Djibouti",3,2
+1978,"Eswatini",2,0
+1978,"Ghana",1853,120
+1978,"India",10585,246
+1978,"Indonesia",10683,507
+1978,"Iran (Islamic Republic of)",264,0
+1978,"Iraq",96,0
+1978,"Japan",34,1
+1978,"Kenya",673,17
+1978,"Kiribati",494,0
+1978,"Kuwait",1,0
+1978,"Liberia",422,9
+1978,"Malawi",263,24
+1978,"Malaysia",1635,64
+1978,"Maldives",11336,220
+1978,"Myanmar",3551,372
+1978,"Nauru",38,0
+1978,"Nepal",1662,10
+1978,"Netherlands (Kingdom of the)",4,0
+1978,"Nigeria",197,20
+1978,"Philippines",1408,122
+1978,"Rwanda",838,48
+1978,"Saudi Arabia",30,1
+1978,"Senegal",315,8
+1978,"Singapore",83,0
+1978,"Sri Lanka",48,2
+1978,"Switzerland",1,0
+1978,"Thailand",4183,123
+1978,"Togo",6,6
+1978,"Uganda",1120,110
+1978,"United Republic of Tanzania",6608,733
+1978,"Viet Nam",2,0
+1978,"Yemen",414,12
+1978,"Zambia",263,36
+1979,"Algeria",2513,94
+1979,"Australia",1,0
+1979,"Bahrain",39,0
+1979,"Bangladesh",2154,21
+1979,"Burundi",915,31
+1979,"Cameroon",16,4
+1979,"China",85,2
+1979,"Congo",5,0
+1979,"Cote d'Ivoire",3,0
+1979,"Democratic Republic of the Congo",5515,511
+1979,"Ethiopia",0,0
+1979,"France",8,0
+1979,"Gabon",5,2
+1979,"Ghana",1783,113
+1979,"India",5073,113
+1979,"Indonesia",18817,769
+1979,"Iran (Islamic Republic of)",1856,56
+1979,"Italy",8,0
+1979,"Japan",11,0
+1979,"Jordan",141,0
+1979,"Kenya",1070,2
+1979,"Kuwait",3,0
+1979,"Liberia",438,6
+1979,"Malaysia",502,10
+1979,"Mozambique",4564,547
+1979,"Myanmar",874,75
+1979,"Nauru",50,0
+1979,"Nepal",22,0
+1979,"Netherlands (Kingdom of the)",5,0
+1979,"Nigeria",293,4
+1979,"Philippines",1268,408
+1979,"Romania",0,8
+1979,"Rwanda",5,0
+1979,"Saudi Arabia",23,0
+1979,"Senegal",103,3
+1979,"Singapore",10,0
+1979,"South Africa",2,0
+1979,"Spain",267,0
+1979,"Sri Lanka",46,0
+1979,"Sudan",845,176
+1979,"Sweden",1,0
+1979,"Syrian Arab Republic",689,30
+1979,"Thailand",1788,44
+1979,"Uganda",940,60
+1979,"United Republic of Tanzania",2559,305
+1979,"Viet Nam",365,28
+1979,"Yemen",1953,45
+1979,"Zambia",12,11
+1980,"Algeria",614,18
+1980,"Australia",2,0
+1980,"Belgium",1,0
+1980,"Benin",3,0
+1980,"Burundi",2039,28
+1980,"Cameroon",229,23
+1980,"China",88,0
+1980,"Democratic People's Republic of Korea",170,0
+1980,"Democratic Republic of the Congo",1051,81
+1980,"France",1,0
+1980,"Germany",4,0
+1980,"Ghana",260,21
+1980,"India",8344,307
+1980,"Indonesia",5541,150
+1980,"Iran (Islamic Republic of)",1599,32
+1980,"Japan",23,0
+1980,"Kenya",2808,42
+1980,"Liberia",2690,55
+1980,"Malaysia",97,7
+1980,"Mozambique",1212,85
+1980,"Myanmar",1018,50
+1980,"Nepal",1,0
+1980,"Nigeria",138,25
+1980,"Philippines",836,61
+1980,"Republic of Korea",145,4
+1980,"Russian Federation",0,0
+1980,"Rwanda",30,4
+1980,"Samoa",1,0
+1980,"Saudi Arabia",2,0
+1980,"Singapore",18,0
+1980,"South Africa",859,16
+1980,"Spain",4,0
+1980,"Sri Lanka",104,4
+1980,"Sudan",17,2
+1980,"Switzerland",0,0
+1980,"Thailand",4331,85
+1980,"Uganda",1539,181
+1980,"United Kingdom of Great Britain and Northern Ireland",6,0
+1980,"United Republic of Tanzania",5196,587
+1980,"Viet Nam",978,49
+1980,"Yemen",720,20
+1980,"Zambia",57,17
+1981,"Australia",2,0
+1981,"Belgium",0,0
+1981,"Benin",2,0
+1981,"Burundi",582,11
+1981,"Cameroon",243,17
+1981,"Democratic Republic of the Congo",2379,800
+1981,"Eswatini",238,17
+1981,"Finland",1,0
+1981,"France",20,0
+1981,"Gabon",7,0
+1981,"Germany",4,0
+1981,"Ghana",943,62
+1981,"Greece",0,0
+1981,"India",4681,150
+1981,"Indonesia",18354,463
+1981,"Iran (Islamic Republic of)",6034,108
+1981,"Japan",19,0
+1981,"Jordan",870,4
+1981,"Kenya",2424,108
+1981,"Kuwait",8,0
+1981,"Liberia",1582,33
+1981,"Malawi",261,0
+1981,"Malaysia",469,14
+1981,"Mozambique",1753,132
+1981,"Myanmar",28,3
+1981,"Nepal",24,0
+1981,"Netherlands (Kingdom of the)",2,0
+1981,"Niger",7,0
+1981,"Nigeria",107,18
+1981,"Norway",0,0
+1981,"Pakistan",4,0
+1981,"Philippines",864,51
+1981,"Poland",1,0
+1981,"Portugal",0,0
+1981,"Russian Federation",0,0
+1981,"Rwanda",24,1
+1981,"Saudi Arabia",13,0
+1981,"Senegal",428,0
+1981,"Singapore",34,0
+1981,"South Africa",4180,52
+1981,"Sri Lanka",574,57
+1981,"Switzerland",2,0
+1981,"Thailand",39,2
+1981,"The former state union Serbia and Montenegro",2,0
+1981,"United Kingdom of Great Britain and Northern Ireland",12,0
+1981,"United Republic of Tanzania",4241,330
+1981,"Viet Nam",157,8
+1981,"Zambia",14,0
+1982,"Australia",1,0
+1982,"Austria",0,0
+1982,"Benin",3,0
+1982,"Brunei Darussalam",6,0
+1982,"Burundi",415,9
+1982,"Cameroon",5,3
+1982,"Cote d'Ivoire",34,0
+1982,"Democratic Republic of the Congo",10328,693
+1982,"Eswatini",538,13
+1982,"Ethiopia",0,0
+1982,"France",18,0
+1982,"Germany",1,0
+1982,"Ghana",11051,1225
+1982,"India",4656,213
+1982,"Indonesia",10391,535
+1982,"Iran (Islamic Republic of)",427,0
+1982,"Israel",1,0
+1982,"Japan",16,0
+1982,"Kenya",3498,91
+1982,"Liberia",670,8
+1982,"Malaysia",516,17
+1982,"Mozambique",2301,199
+1982,"Nigeria",248,18
+1982,"Philippines",930,31
+1982,"Rwanda",201,2
+1982,"Singapore",31,0
+1982,"South Africa",11968,224
+1982,"Spain",2,0
+1982,"Sri Lanka",309,21
+1982,"Thailand",638,16
+1982,"Uganda",190,48
+1982,"United Kingdom of Great Britain and Northern Ireland",1,0
+1982,"United Republic of Tanzania",4071,324
+1982,"Viet Nam",57,0
+1982,"Zambia",1403,131
+1983,"Algeria",218,9
+1983,"Australia",4,0
+1983,"Belgium",1,0
+1983,"Benin",1,0
+1983,"Burundi",512,35
+1983,"Cameroon",55,18
+1983,"Democratic Republic of the Congo",2977,245
+1983,"France",3,0
+1983,"Ghana",14160,819
+1983,"India",8542,309
+1983,"Indonesia",13832,346
+1983,"Iran (Islamic Republic of)",270,0
+1983,"Japan",35,0
+1983,"Kenya",1049,53
+1983,"Liberia",183,12
+1983,"Malawi",487,49
+1983,"Malaysia",2195,38
+1983,"Mozambique",10745,447
+1983,"Myanmar",989,29
+1983,"Netherlands (Kingdom of the)",2,0
+1983,"Nigeria",178,2
+1983,"Rwanda",54,5
+1983,"Singapore",14,0
+1983,"South Africa",4715,63
+1983,"Spain",2,0
+1983,"Sri Lanka",86,2
+1983,"Thailand",1497,41
+1983,"United Kingdom of Great Britain and Northern Ireland",4,0
+1983,"United Republic of Tanzania",1816,127
+1983,"Viet Nam",392,0
+1983,"Zambia",233,19
+1984,"Algeria",45,0
+1984,"Australia",1,0
+1984,"Belgium",1,0
+1984,"Benin",1,0
+1984,"Burkina Faso",2191,117
+1984,"Burundi",180,10
+1984,"Cameroon",392,60
+1984,"Democratic Republic of the Congo",162,3
+1984,"Equatorial Guinea",404,31
+1984,"France",1,0
+1984,"Ghana",1015,92
+1984,"India",2527,27
+1984,"Indonesia",7921,59
+1984,"Iran (Islamic Republic of)",531,5
+1984,"Japan",55,0
+1984,"Kenya",14,0
+1984,"Liberia",492,8
+1984,"Malaysia",67,1
+1984,"Mali",1795,406
+1984,"Mauritania",166,15
+1984,"Mozambique",521,11
+1984,"Niger",3788,308
+1984,"Nigeria",1667,185
+1984,"Russian Federation",0,0
+1984,"Rwanda",161,13
+1984,"Senegal",728,94
+1984,"Singapore",40,8
+1984,"South Africa",1182,20
+1984,"Spain",4,0
+1984,"Sweden",0,0
+1984,"Thailand",645,19
+1984,"United Kingdom of Great Britain and Northern Ireland",5,0
+1984,"United Republic of Tanzania",2600,338
+1984,"Viet Nam",22,0
+1985,"Australia",2,0
+1985,"Belgium",1,0
+1985,"Burkina Faso",1149,156
+1985,"Burundi",259,15
+1985,"Cameroon",1158,103
+1985,"Democratic Republic of the Congo",740,30
+1985,"Djibouti",115,7
+1985,"Equatorial Guinea",108,1
+1985,"Gambia",2,0
+1985,"Ghana",60,0
+1985,"India",5808,155
+1985,"Indonesia",4732,85
+1985,"Iran (Islamic Republic of)",1208,9
+1985,"Japan",36,0
+1985,"Kenya",1352,102
+1985,"Kuwait",113,0
+1985,"Liberia",355,3
+1985,"Malaysia",52,2
+1985,"Mali",3759,838
+1985,"Mauritania",259,20
+1985,"Mozambique",3,0
+1985,"Nigeria",30,0
+1985,"Philippines",10,1
+1985,"Rwanda",21,0
+1985,"Senegal",2988,474
+1985,"Singapore",27,1
+1985,"Somalia",10199,1589
+1985,"South Africa",2742,4
+1985,"Sudan",4457,239
+1985,"Switzerland",1,0
+1985,"Thailand",899,14
+1985,"United Kingdom of Great Britain and Northern Ireland",4,1
+1985,"United Republic of Tanzania",1984,250
+1985,"Viet Nam",502,9
+1985,"Zimbabwe",144,6
+1986,"Benin",243,13
+1986,"Cameroon",165,12
+1986,"Democratic Republic of the Congo",1059,125
+1986,"France",37,0
+1986,"Germany",2,0
+1986,"Greece",1,0
+1986,"Guinea",286,58
+1986,"Guinea-Bissau",200,50
+1986,"India",4208,70
+1986,"Indonesia",11915,391
+1986,"Iran (Islamic Republic of)",20,1
+1986,"Japan",26,0
+1986,"Kenya",839,45
+1986,"Kuwait",38,0
+1986,"Liberia",59,0
+1986,"Malaysia",55,2
+1986,"Mali",1916,151
+1986,"Mauritania",3734,113
+1986,"Mozambique",1,0
+1986,"Nigeria",91,23
+1986,"Russian Federation",0,0
+1986,"Rwanda",226,7
+1986,"Saudi Arabia",74,3
+1986,"Senegal",476,63
+1986,"Sierra Leone",8957,669
+1986,"Singapore",27,0
+1986,"Somalia",15980,1945
+1986,"South Africa",120,1
+1986,"Sweden",1,0
+1986,"Thailand",213,1
+1986,"United Kingdom of Great Britain and Northern Ireland",11,0
+1986,"United Republic of Tanzania",1231,215
+1986,"Viet Nam",525,8
+1986,"Zimbabwe",2,0
+1987,"Algeria",1507,0
+1987,"Angola",16222,1403
+1987,"Australia",1,0
+1987,"Bangladesh",523,23
+1987,"Cambodia",474,55
+1987,"Cameroon",94,6
+1987,"China",4,0
+1987,"Democratic Republic of the Congo",1150,218
+1987,"France",7,0
+1987,"Guinea-Bissau",6000,68
+1987,"India",11934,240
+1987,"Indonesia",659,18
+1987,"Iran (Islamic Republic of)",295,4
+1987,"Israel",2,0
+1987,"Japan",34,0
+1987,"Kenya",255,12
+1987,"Liberia",33,1
+1987,"Malaysia",1168,18
+1987,"Mali",352,84
+1987,"Mauritania",1578,101
+1987,"New Zealand",2,0
+1987,"Nigeria",1290,111
+1987,"Norway",1,0
+1987,"Rwanda",101,6
+1987,"Senegal",3150,288
+1987,"Sierra Leone",557,30
+1987,"Singapore",63,0
+1987,"South Africa",37,0
+1987,"Spain",2,0
+1987,"Sweden",1,0
+1987,"Thailand",6353,36
+1987,"Uganda",140,50
+1987,"United Kingdom of Great Britain and Northern Ireland",2,0
+1987,"United Republic of Tanzania",1892,232
+1987,"United States of America",6,0
+1987,"Viet Nam",216,5
+1988,"Algeria",699,30
+1988,"Angola",15500,1542
+1988,"Australia",1,0
+1988,"Bangladesh",571,43
+1988,"Cambodia",56,0
+1988,"Cameroon",4,0
+1988,"Canada",0,0
+1988,"China",7267,89
+1988,"Democratic Republic of the Congo",295,32
+1988,"Germany",2,0
+1988,"India",17162,380
+1988,"Indonesia",50,0
+1988,"Iran (Islamic Republic of)",486,15
+1988,"Israel",1,0
+1988,"Japan",33,0
+1988,"Liberia",68,1
+1988,"Malawi",6,0
+1988,"Malaysia",1324,32
+1988,"Mauritania",575,38
+1988,"Netherlands (Kingdom of the)",1,0
+1988,"Nigeria",137,10
+1988,"Rwanda",70,3
+1988,"Senegal",390,1
+1988,"Singapore",19,0
+1988,"Sri Lanka",154,11
+1988,"Switzerland",1,0
+1988,"Thailand",3418,41
+1988,"Togo",1,0
+1988,"United Kingdom of Great Britain and Northern Ireland",10,0
+1988,"United Republic of Tanzania",5267,580
+1988,"United States of America",9,0
+1988,"Viet Nam",343,7
+1989,"Algeria",393,0
+1989,"Angola",17601,925
+1989,"Bangladesh",94,2
+1989,"Cambodia",47,2
+1989,"Cameroon",4,2
+1989,"Canada",1,0
+1989,"China",5628,59
+1989,"Democratic Republic of the Congo",99,6
+1989,"France",1,0
+1989,"Germany",1,0
+1989,"India",5640,93
+1989,"Indonesia",67,0
+1989,"Iran (Islamic Republic of)",5222,85
+1989,"Japan",95,0
+1989,"Kenya",918,32
+1989,"Kuwait",133,0
+1989,"Liberia",28,0
+1989,"Malawi",8351,16
+1989,"Malaysia",393,14
+1989,"Mauritania",700,27
+1989,"Mozambique",371,12
+1989,"Myanmar",597,11
+1989,"Nepal",141,2
+1989,"Niger",166,22
+1989,"Nigeria",1078,61
+1989,"Norway",1,0
+1989,"Rwanda",1,0
+1989,"Sao Tome and Principe",3953,64
+1989,"Singapore",39,0
+1989,"Spain",3,0
+1989,"The former state union Serbia and Montenegro",4,0
+1989,"United Kingdom of Great Britain and Northern Ireland",1,0
+1989,"United Republic of Tanzania",2150,232
+1989,"Viet Nam",143,0
+1989,"Zambia",44,44
+1990,"Algeria",1299,20
+1990,"Angola",9527,809
+1990,"Australia",0,0
+1990,"Austria",2,0
+1990,"Bangladesh",82,4
+1990,"Burundi",82,0
+1990,"Cambodia",5,0
+1990,"Cameroon",16,0
+1990,"China",644,5
+1990,"Democratic Republic of the Congo",468,61
+1990,"Denmark",1,0
+1990,"France",6,1
+1990,"Germany",1,0
+1990,"Ghana",2937,60
+1990,"India",3583,83
+1990,"Indonesia",155,0
+1990,"Iran (Islamic Republic of)",178,3
+1990,"Japan",73,0
+1990,"Jordan",2,0
+1990,"Malawi",13457,481
+1990,"Malaysia",2071,38
+1990,"Micronesia (Federated States of)",34,1
+1990,"Morocco",4573,137
+1990,"Mozambique",4152,194
+1990,"Nepal",23888,495
+1990,"Netherlands (Kingdom of the)",3,0
+1990,"New Zealand",5,0
+1990,"Romania",270,1
+1990,"Russian Federation",49,0
+1990,"Sao Tome and Principe",804,9
+1990,"Singapore",26,0
+1990,"Spain",11,0
+1990,"Tuvalu",42,0
+1990,"United Kingdom of Great Britain and Northern Ireland",6,0
+1990,"United Republic of Tanzania",2230,81
+1990,"United States of America",7,0
+1990,"Viet Nam",358,4
+1990,"Zambia",3717,315
+1991,"Angola",8590,582
+1991,"Bangladesh",8,0
+1991,"Benin",7474,259
+1991,"Bhutan",422,19
+1991,"Bolivia (Plurinational State of)",206,12
+1991,"Brazil",2103,33
+1991,"Burkina Faso",537,61
+1991,"Burundi",3,0
+1991,"Cambodia",770,97
+1991,"Cameroon",4026,491
+1991,"Canada",2,0
+1991,"Chad",13915,1344
+1991,"Chile",41,2
+1991,"China",210,0
+1991,"Colombia",11979,207
+1991,"Cote d'Ivoire",604,116
+1991,"Democratic Republic of the Congo",4066,294
+1991,"Ecuador",46320,697
+1991,"El Salvador",947,34
+1991,"France",7,0
+1991,"Ghana",13172,409
+1991,"Guatemala",3674,50
+1991,"Honduras",17,0
+1991,"India",6993,149
+1991,"Indonesia",6202,55
+1991,"Iran (Islamic Republic of)",1892,32
+1991,"Iraq",877,6
+1991,"Japan",90,1
+1991,"Liberia",132,40
+1991,"Malawi",8088,245
+1991,"Malaysia",506,6
+1991,"Mexico",2690,34
+1991,"Mozambique",7847,328
+1991,"Myanmar",924,39
+1991,"Nepal",30648,873
+1991,"Nicaragua",1,0
+1991,"Niger",3238,367
+1991,"Nigeria",59478,7654
+1991,"Panama",1178,29
+1991,"Peru",322562,2909
+1991,"Poland",0,0
+1991,"Republic of Korea",113,4
+1991,"Romania",226,9
+1991,"Russian Federation",78,0
+1991,"Rwanda",679,35
+1991,"Sao Tome and Principe",3,1
+1991,"Singapore",34,2
+1991,"South Africa",10,0
+1991,"Spain",1,0
+1991,"Sri Lanka",70,2
+1991,"Togo",2396,81
+1991,"Uganda",279,28
+1991,"Ukraine",75,0
+1991,"United Kingdom of Great Britain and Northern Ireland",8,0
+1991,"United Republic of Tanzania",5676,572
+1991,"United States of America",26,0
+1991,"Venezuela (Bolivarian Republic of)",15,2
+1991,"Viet Nam",52,1
+1991,"Zambia",13154,1091
+1992,"Algeria",69,0
+1992,"Angola",3608,184
+1992,"Argentina",0,15
+1992,"Australia",3,0
+1992,"Bangladesh",479,29
+1992,"Belgium",1,0
+1992,"Belize",159,4
+1992,"Benin",413,17
+1992,"Bhutan",494,6
+1992,"Bolivia (Plurinational State of)",22260,395
+1992,"Brazil",30317,363
+1992,"Burundi",479,29
+1992,"Cambodia",1229,120
+1992,"Cameroon",1268,66
+1992,"Canada",5,0
+1992,"Chile",73,1
+1992,"China",583,1
+1992,"Colombia",15129,158
+1992,"Costa Rica",12,0
+1992,"Cote d'Ivoire",37,7
+1992,"Democratic Republic of the Congo",1949,59
+1992,"Ecuador",31870,208
+1992,"El Salvador",8717,45
+1992,"Eswatini",2281,30
+1992,"Germany",1,0
+1992,"Ghana",228,23
+1992,"Guatemala",15395,207
+1992,"Guyana",576,8
+1992,"Honduras",407,17
+1992,"India",6911,55
+1992,"Indonesia",25,0
+1992,"Iran (Islamic Republic of)",97,4
+1992,"Iraq",97,0
+1992,"Japan",46,0
+1992,"Kenya",3388,100
+1992,"Malawi",298,8
+1992,"Malaysia",474,8
+1992,"Mexico",8162,99
+1992,"Mozambique",30802,727
+1992,"Myanmar",826,50
+1992,"Nepal",798,15
+1992,"Nicaragua",3067,46
+1992,"Nigeria",8687,686
+1992,"Panama",2416,49
+1992,"Peru",242237,801
+1992,"Philippines",345,0
+1992,"Republic of Korea",6,0
+1992,"Romania",3,0
+1992,"Russian Federation",6,0
+1992,"Rwanda",503,35
+1992,"Singapore",17,0
+1992,"South Africa",11,0
+1992,"Sri Lanka",121,3
+1992,"Suriname",12,1
+1992,"Sweden",1,0
+1992,"Switzerland",1,0
+1992,"Togo",753,53
+1992,"Tuvalu",293,8
+1992,"Uganda",5072,104
+1992,"United Kingdom of Great Britain and Northern Ireland",5,0
+1992,"United Republic of Tanzania",18526,2173
+1992,"United States of America",103,1
+1992,"Venezuela (Bolivarian Republic of)",2842,68
+1992,"Viet Nam",4260,110
+1992,"Yemen",4,0
+1992,"Zambia",11659,913
+1992,"Zimbabwe",2048,105
+1993,"Afghanistan",37046,931
+1993,"Andorra",0,0
+1993,"Argentina",2350,34
+1993,"Australia",5,0
+1993,"Austria",1,0
+1993,"Bangladesh",78,0
+1993,"Belgium",1,0
+1993,"Belize",135,3
+1993,"Benin",10,2
+1993,"Bolivia (Plurinational State of)",10134,254
+1993,"Brazil",59212,644
+1993,"Burundi",78,0
+1993,"Cambodia",2252,104
+1993,"Cameroon",648,19
+1993,"Canada",6,1
+1993,"Chile",32,0
+1993,"China",11673,94
+1993,"Colombia",230,0
+1993,"Costa Rica",14,0
+1993,"Cote d'Ivoire",724,42
+1993,"Democratic Republic of the Congo",986,175
+1993,"Denmark",2,0
+1993,"Djibouti",10055,99
+1993,"Ecuador",6833,72
+1993,"El Salvador",6573,14
+1993,"Estonia",2,0
+1993,"France",5,0
+1993,"Georgia",8,0
+1993,"Germany",1,0
+1993,"Ghana",1448,38
+1993,"Greece",1,0
+1993,"Guatemala",30604,306
+1993,"Guyana",66,2
+1993,"Honduras",4013,102
+1993,"India",12084,51
+1993,"Indonesia",3564,25
+1993,"Iran (Islamic Republic of)",1347,5
+1993,"Iraq",280,0
+1993,"Japan",89,0
+1993,"Kazakhstan",74,0
+1993,"Kuwait",1,0
+1993,"Lao People's Democratic Republic",5521,255
+1993,"Lebanon",344,23
+1993,"Malawi",25193,524
+1993,"Malaysia",995,13
+1993,"Mexico",10712,193
+1993,"Mozambique",19803,507
+1993,"Myanmar",1758,52
+1993,"Nepal",31,0
+1993,"Netherlands (Kingdom of the)",3,0
+1993,"Nicaragua",6631,220
+1993,"Nigeria",4160,266
+1993,"Pakistan",12092,206
+1993,"Panama",42,4
+1993,"Paraguay",3,0
+1993,"Peru",72404,575
+1993,"Philippines",708,10
+1993,"Republic of Korea",5,0
+1993,"Republic of Moldova",1,0
+1993,"Romania",15,0
+1993,"Russian Federation",23,2
+1993,"Rwanda",568,34
+1993,"Singapore",24,0
+1993,"South Africa",78,2
+1993,"Spain",3,0
+1993,"Sri Lanka",1,0
+1993,"Switzerland",2,0
+1993,"Tajikistan",165,5
+1993,"Togo",19,2
+1993,"United Kingdom of Great Britain and Northern Ireland",13,0
+1993,"United Republic of Tanzania",792,74
+1993,"United States of America",19,0
+1993,"Venezuela (Bolivarian Republic of)",409,10
+1993,"Viet Nam",3361,9
+1993,"Zambia",6766,426
+1993,"Zimbabwe",5385,332
+1994,"Afghanistan",38735,118
+1994,"Albania",626,25
+1994,"Algeria",118,4
+1994,"Angola",3443,187
+1994,"Argentina",889,15
+1994,"Australia",3,0
+1994,"Austria",1,0
+1994,"Azerbaijan",18,0
+1994,"Bangladesh",562,41
+1994,"Belarus",3,0
+1994,"Belgium",1,0
+1994,"Belize",6,1
+1994,"Benin",187,20
+1994,"Bolivia (Plurinational State of)",2710,46
+1994,"Brazil",49455,452
+1994,"Burundi",562,41
+1994,"Cabo Verde",128,12
+1994,"Cambodia",3085,211
+1994,"Cameroon",527,61
+1994,"Canada",2,0
+1994,"Chad",1094,43
+1994,"Chile",1,0
+1994,"China",34877,319
+1994,"Colombia",996,14
+1994,"Costa Rica",38,0
+1994,"Cote d'Ivoire",1108,55
+1994,"Democratic Republic of the Congo",58057,4181
+1994,"Denmark",2,0
+1994,"Djibouti",1122,15
+1994,"Ecuador",1785,16
+1994,"El Salvador",11745,38
+1994,"Finland",2,0
+1994,"France",4,0
+1994,"Gambia",1,0
+1994,"Germany",5,0
+1994,"Ghana",2267,54
+1994,"Guatemala",5282,36
+1994,"Guinea",31415,671
+1994,"Guinea-Bissau",15296,285
+1994,"Honduras",5049,102
+1994,"India",4973,32
+1994,"Indonesia",47,0
+1994,"Iran (Islamic Republic of)",15,0
+1994,"Iraq",838,0
+1994,"Italy",12,9
+1994,"Japan",91,0
+1994,"Kazakhstan",3,0
+1994,"Kenya",880,28
+1994,"Kyrgyzstan",4,0
+1994,"Lao People's Democratic Republic",9660,606
+1994,"Lebanon",3,0
+1994,"Liberia",764,17
+1994,"Malawi",107,11
+1994,"Malaysia",534,0
+1994,"Mexico",4059,56
+1994,"Morocco",6,0
+1994,"Mozambique",692,27
+1994,"Myanmar",421,4
+1994,"Nepal",32,0
+1994,"Netherlands (Kingdom of the)",1,0
+1994,"New Zealand",2,0
+1994,"Nicaragua",7821,134
+1994,"Niger",732,83
+1994,"Nigeria",2859,313
+1994,"Peru",23887,199
+1994,"Philippines",3340,27
+1994,"Poland",1,0
+1994,"Portugal",1,0
+1994,"Republic of Korea",34,0
+1994,"Republic of Moldova",8,0
+1994,"Romania",80,4
+1994,"Russian Federation",1048,15
+1994,"Rwanda",10,0
+1994,"Sierra Leone",9709,623
+1994,"Singapore",41,1
+1994,"Somalia",28334,1206
+1994,"South Africa",4,0
+1994,"Spain",1,0
+1994,"Sweden",1,0
+1994,"Tajikistan",10,0
+1994,"Thailand",3487,5
+1994,"The former state union Serbia and Montenegro",2,0
+1994,"Togo",47,5
+1994,"Turkmenistan",1,0
+1994,"Uganda",704,39
+1994,"Ukraine",813,20
+1994,"United Kingdom of Great Britain and Northern Ireland",18,0
+1994,"United Republic of Tanzania",2240,155
+1994,"United States of America",47,0
+1994,"Uzbekistan",1,0
+1994,"Viet Nam",5776,68
+1995,"Afghanistan",19903,624
+1995,"Angola",3295,248
+1995,"Argentina",188,1
+1995,"Australia",5,0
+1995,"Bangladesh",2297,61
+1995,"Belarus",3,0
+1995,"Belize",19,1
+1995,"Benin",203,12
+1995,"Bhutan",25,0
+1995,"Bolivia (Plurinational State of)",2293,54
+1995,"Brazil",15915,85
+1995,"Burkina Faso",1451,113
+1995,"Burundi",2297,0
+1995,"Cabo Verde",12913,240
+1995,"Cambodia",4190,123
+1995,"Cameroon",615,21
+1995,"Canada",7,0
+1995,"China",10337,88
+1995,"Colombia",1922,35
+1995,"Costa Rica",24,0
+1995,"Cote d'Ivoire",4993,184
+1995,"Democratic Republic of the Congo",553,22
+1995,"Denmark",3,0
+1995,"Ecuador",2160,23
+1995,"El Salvador",2923,2
+1995,"Finland",1,0
+1995,"France",6,0
+1995,"Gambia",15,0
+1995,"Germany",1,0
+1995,"Ghana",4698,93
+1995,"Guatemala",7970,95
+1995,"Guinea",6506,565
+1995,"Guinea-Bissau",119,0
+1995,"Honduras",4717,77
+1995,"India",3315,5
+1995,"Iran (Islamic Republic of)",2177,59
+1995,"Iraq",820,3
+1995,"Italy",1,0
+1995,"Japan",321,1
+1995,"Kazakhstan",16,0
+1995,"Kenya",1547,39
+1995,"Lao People's Democratic Republic",1365,174
+1995,"Liberia",3420,126
+1995,"Libya",22,2
+1995,"Malawi",1,0
+1995,"Malaysia",2209,27
+1995,"Mali",2191,231
+1995,"Mexico",16430,137
+1995,"Myanmar",1296,6
+1995,"Nepal",157,0
+1995,"Netherlands (Kingdom of the)",9,0
+1995,"New Zealand",2,0
+1995,"Nicaragua",8825,164
+1995,"Niger",264,15
+1995,"Nigeria",1059,87
+1995,"Norway",1,0
+1995,"Peru",22397,171
+1995,"Philippines",847,4
+1995,"Portugal",1,0
+1995,"Republic of Korea",74,0
+1995,"Republic of Moldova",240,5
+1995,"Romania",118,3
+1995,"Russian Federation",9,0
+1995,"Rwanda",3,0
+1995,"Senegal",3332,160
+1995,"Sierra Leone",10285,447
+1995,"Singapore",14,0
+1995,"Somalia",9255,191
+1995,"Spain",6,0
+1995,"Sweden",2,0
+1995,"Switzerland",2,0
+1995,"Togo",65,4
+1995,"Uganda",538,66
+1995,"Ukraine",525,10
+1995,"United Kingdom of Great Britain and Northern Ireland",10,0
+1995,"United Republic of Tanzania",2957,96
+1995,"United States of America",19,0
+1995,"Viet Nam",6088,45
+1996,"Angola",1306,42
+1996,"Argentina",474,5
+1996,"Australia",2,0
+1996,"Austria",1,0
+1996,"Bangladesh",418,0
+1996,"Belize",26,0
+1996,"Benin",6190,203
+1996,"Bolivia (Plurinational State of)",2847,68
+1996,"Brazil",5522,33
+1996,"Burkina Faso",425,58
+1996,"Burundi",418,0
+1996,"Cabo Verde",428,3
+1996,"Cambodia",740,20
+1996,"Cameroon",5796,485
+1996,"Canada",2,0
+1996,"Chad",7830,448
+1996,"Chile",1,0
+1996,"China",316,4
+1996,"Colombia",4428,70
+1996,"Costa Rica",19,1
+1996,"Cote d'Ivoire",1345,22
+1996,"Democratic People's Republic of Korea",7,0
+1996,"Democratic Republic of the Congo",7886,638
+1996,"Ecuador",1059,12
+1996,"El Salvador",182,2
+1996,"Eswatini",2,0
+1996,"France",8,0
+1996,"Gambia",7,0
+1996,"Ghana",1665,70
+1996,"Guatemala",1568,14
+1996,"Guinea",287,17
+1996,"Guinea-Bissau",8397,84
+1996,"Honduras",708,14
+1996,"India",4396,34
+1996,"Indonesia",66,0
+1996,"Iraq",1,0
+1996,"Japan",39,0
+1996,"Kenya",482,14
+1996,"Lao People's Democratic Republic",720,33
+1996,"Liberia",8922,169
+1996,"Madagascar",0,0
+1996,"Malawi",1,0
+1996,"Malaysia",1486,0
+1996,"Mali",5723,761
+1996,"Mauritania",4534,148
+1996,"Mexico",1088,5
+1996,"Micronesia (Federated States of)",1,0
+1996,"Mongolia",177,12
+1996,"Mozambique",0,0
+1996,"Nepal",274,1
+1996,"Netherlands (Kingdom of the)",3,0
+1996,"Nicaragua",2813,107
+1996,"Niger",3957,206
+1996,"Nigeria",12374,1193
+1996,"Paraguay",4,0
+1996,"Peru",4518,21
+1996,"Philippines",1402,14
+1996,"Russian Federation",4,1
+1996,"Rwanda",106,10
+1996,"Senegal",16107,765
+1996,"Singapore",19,1
+1996,"Somalia",10274,464
+1996,"Spain",1,0
+1996,"Sweden",1,0
+1996,"Togo",146,17
+1996,"Uganda",291,40
+1996,"United Kingdom of Great Britain and Northern Ireland",13,0
+1996,"United Republic of Tanzania",1464,36
+1996,"United States of America",3,0
+1996,"Venezuela (Bolivarian Republic of)",269,9
+1996,"Viet Nam",566,2
+1996,"Zambia",2172,42
+1997,"Afghanistan",4170,125
+1997,"Argentina",637,12
+1997,"Australia",2,0
+1997,"Bangladesh",1959,95
+1997,"Belize",2,0
+1997,"Benin",796,16
+1997,"Bolivia (Plurinational State of)",1632,18
+1997,"Brazil",2881,37
+1997,"Burundi",1959,95
+1997,"Cambodia",155,0
+1997,"Cameroon",1709,180
+1997,"Central African Republic",443,75
+1997,"Chad",8801,443
+1997,"Chile",4,0
+1997,"China",1177,29
+1997,"Colombia",1508,32
+1997,"Congo",275,60
+1997,"Costa Rica",1,0
+1997,"Democratic Republic of the Congo",2421,326
+1997,"Djibouti",2424,50
+1997,"Ecuador",65,3
+1997,"France",3,0
+1997,"Germany",2,0
+1997,"Ghana",379,12
+1997,"Guatemala",1263,0
+1997,"Guinea-Bissau",20555,905
+1997,"Honduras",100,1
+1997,"Hungary",1,0
+1997,"India",2768,16
+1997,"Indonesia",66,0
+1997,"Iran (Islamic Republic of)",1106,9
+1997,"Japan",89,0
+1997,"Kazakhstan",4,0
+1997,"Kenya",17200,555
+1997,"Kuwait",1,0
+1997,"Liberia",91,0
+1997,"Malawi",130,15
+1997,"Malaysia",389,4
+1997,"Mali",6,3
+1997,"Mauritania",462,7
+1997,"Mexico",2356,1
+1997,"Mozambique",8739,259
+1997,"Nepal",245,0
+1997,"Netherlands (Kingdom of the)",2,0
+1997,"Nicaragua",1283,36
+1997,"Niger",259,13
+1997,"Nigeria",1322,134
+1997,"Peru",3483,29
+1997,"Philippines",605,0
+1997,"Republic of Korea",10,0
+1997,"Russian Federation",11,0
+1997,"Rwanda",274,16
+1997,"Senegal",371,11
+1997,"Singapore",19,0
+1997,"Somalia",6814,252
+1997,"Sri Lanka",430,12
+1997,"Togo",42,7
+1997,"Turkmenistan",55,0
+1997,"Uganda",2610,188
+1997,"United Kingdom of Great Britain and Northern Ireland",6,0
+1997,"United Republic of Tanzania",40249,2231
+1997,"United States of America",4,0
+1997,"Venezuela (Bolivarian Republic of)",2551,59
+1997,"Viet Nam",4,0
+1997,"Zambia",36,0
+1998,"Afghanistan",10000,0
+1998,"Argentina",12,0
+1998,"Armenia",25,0
+1998,"Australia",5,0
+1998,"Austria",1,0
+1998,"Bangladesh",1067,26
+1998,"Belize",28,1
+1998,"Benin",206,1
+1998,"Bhutan",19,0
+1998,"Bolivia (Plurinational State of)",466,7
+1998,"Brazil",2571,27
+1998,"Burkina Faso",1036,52
+1998,"Burundi",1067,26
+1998,"Cabo Verde",133,1
+1998,"Cambodia",1197,66
+1998,"Cameroon",4603,316
+1998,"Canada",2,0
+1998,"Central African Republic",22,3
+1998,"Chad",4095,144
+1998,"Chile",24,2
+1998,"China",4642,0
+1998,"Colombia",442,7
+1998,"Comoros",7300,68
+1998,"Congo",3222,22
+1998,"Democratic Republic of the Congo",34899,2926
+1998,"Djibouti",164,3
+1998,"Ecuador",3724,37
+1998,"El Salvador",8,0
+1998,"Eswatini",7,0
+1998,"Finland",1,0
+1998,"France",2,0
+1998,"Germany",5,0
+1998,"Ghana",3426,108
+1998,"Guatemala",5970,57
+1998,"Guinea",881,53
+1998,"Guinea-Bissau",126,2
+1998,"Honduras",306,13
+1998,"India",7151,11
+1998,"Iran (Islamic Republic of)",270,1
+1998,"Iraq",53,1
+1998,"Italy",2,9
+1998,"Japan",60,0
+1998,"Kenya",22432,1237
+1998,"Liberia",2123,17
+1998,"Malawi",1745,74
+1998,"Malaysia",1304,19
+1998,"Mexico",71,0
+1998,"Mozambique",42672,1353
+1998,"Nepal",1745,17
+1998,"Netherlands (Kingdom of the)",4,0
+1998,"New Zealand",1,0
+1998,"Nicaragua",1437,29
+1998,"Nigeria",3464,187
+1998,"Norway",2,0
+1998,"Peru",41717,568
+1998,"Philippines",729,17
+1998,"Russian Federation",10,0
+1998,"Rwanda",3220,74
+1998,"Sierra Leone",2096,57
+1998,"Singapore",31,2
+1998,"Somalia",4417,196
+1998,"South Africa",20,1
+1998,"Sri Lanka",1536,49
+1998,"Switzerland",2,0
+1998,"Togo",3217,221
+1998,"Uganda",49514,2064
+1998,"United Kingdom of Great Britain and Northern Ireland",18,0
+1998,"United Republic of Tanzania",14488,608
+1998,"United States of America",17,0
+1998,"Venezuela (Bolivarian Republic of)",313,7
+1998,"Viet Nam",13,1
+1998,"Zambia",171,0
+1998,"Zimbabwe",995,44
+1999,"Afghanistan",24639,152
+1999,"Australia",4,0
+1999,"Austria",1,0
+1999,"Bangladesh",3440,63
+1999,"Belize",12,0
+1999,"Benin",855,25
+1999,"Brazil",4495,83
+1999,"Brunei Darussalam",93,0
+1999,"Burkina Faso",93,7
+1999,"Burundi",3440,63
+1999,"Cambodia",1711,130
+1999,"Cameroon",1584,35
+1999,"Chad",217,18
+1999,"China",4589,0
+1999,"Colombia",42,0
+1999,"Comoros",1180,42
+1999,"Congo",4813,20
+1999,"Democratic Republic of the Congo",12711,783
+1999,"Ecuador",90,0
+1999,"El Salvador",134,0
+1999,"Eswatini",7,0
+1999,"Germany",3,0
+1999,"Ghana",9432,260
+1999,"Guatemala",2077,0
+1999,"Guinea",599,28
+1999,"Honduras",56,3
+1999,"India",3839,6
+1999,"Iran (Islamic Republic of)",1369,21
+1999,"Iraq",1985,30
+1999,"Japan",40,0
+1999,"Kenya",11039,350
+1999,"Liberia",215,0
+1999,"Madagascar",9973,549
+1999,"Malawi",26508,648
+1999,"Malaysia",535,0
+1999,"Mali",6,3
+1999,"Mozambique",44329,1194
+1999,"Netherlands (Kingdom of the)",2,0
+1999,"New Zealand",1,0
+1999,"Nicaragua",552,7
+1999,"Niger",1186,85
+1999,"Nigeria",26358,2085
+1999,"Peru",1546,6
+1999,"Philippines",330,0
+1999,"Russian Federation",8,0
+1999,"Rwanda",327,49
+1999,"Sierra Leone",863,5
+1999,"Singapore",11,0
+1999,"Somalia",17757,693
+1999,"South Africa",68,2
+1999,"Sri Lanka",108,5
+1999,"Sudan",0,0
+1999,"Togo",667,31
+1999,"Uganda",5179,228
+1999,"Ukraine",2,0
+1999,"United Republic of Tanzania",12266,584
+1999,"United States of America",6,0
+1999,"Venezuela (Bolivarian Republic of)",376,8
+1999,"Viet Nam",169,0
+1999,"Zambia",13511,535
+1999,"Zimbabwe",5637,385
+2000,"Afghanistan",4330,198
+2000,"Australia",1,0
+2000,"Bangladesh",1021,16
+2000,"Benin",468,11
+2000,"Brazil",715,17
+2000,"Burkina Faso",617,14
+2000,"Burundi",1021,16
+2000,"Cameroon",123,29
+2000,"Canada",5,0
+2000,"China",1846,3
+2000,"Comoros",3297,91
+2000,"Congo",9,2
+2000,"Democratic Republic of the Congo",14995,941
+2000,"Djibouti",1828,32
+2000,"Ecuador",27,1
+2000,"El Salvador",631,2
+2000,"Eswatini",141,16
+2000,"France",5,0
+2000,"Germany",2,0
+2000,"Ghana",3331,74
+2000,"Guatemala",612,6
+2000,"Guinea",519,32
+2000,"Honduras",8,0
+2000,"India",4053,20
+2000,"Iran (Islamic Republic of)",345,3
+2000,"Iraq",532,4
+2000,"Japan",34,0
+2000,"Kenya",1157,78
+2000,"Liberia",365,10
+2000,"Madagascar",29305,1672
+2000,"Malawi",2391,56
+2000,"Malaysia",124,1
+2000,"Mali",1885,51
+2000,"Marshall Islands",300,6
+2000,"Mexico",5,0
+2000,"Micronesia (Federated States of)",3452,20
+2000,"Mozambique",17649,238
+2000,"Netherlands (Kingdom of the)",1,0
+2000,"Nicaragua",12,0
+2000,"Niger",225,38
+2000,"Nigeria",2799,43
+2000,"Peru",934,6
+2000,"Philippines",275,6
+2000,"Rwanda",1235,8
+2000,"Singapore",10,0
+2000,"Somalia",7496,563
+2000,"South Africa",19667,68
+2000,"Sri Lanka",2,0
+2000,"Togo",338,23
+2000,"Uganda",2807,172
+2000,"United Kingdom of Great Britain and Northern Ireland",33,0
+2000,"United Republic of Tanzania",4637,156
+2000,"United States of America",4,0
+2000,"Venezuela (Bolivarian Republic of)",141,0
+2000,"Zambia",4504,303
+2000,"Zimbabwe",1675,223
+2001,"Afghanistan",4499,114
+2001,"Australia",2,0
+2001,"Austria",0,0
+2001,"Benin",3943,71
+2001,"Brazil",7,0
+2001,"Burkina Faso",477,7
+2001,"Burundi",1003,20
+2001,"Cameroon",259,7
+2001,"Canada",6,0
+2001,"Chad",5244,226
+2001,"China",140,0
+2001,"Comoros",226,4
+2001,"Cote d'Ivoire",5912,305
+2001,"Democratic Republic of the Congo",5728,390
+2001,"Ecuador",9,0
+2001,"Eswatini",5612,107
+2001,"France",2,0
+2001,"Germany",1,0
+2001,"Ghana",5487,160
+2001,"Guatemala",13,0
+2001,"Guinea",392,22
+2001,"Honduras",1,0
+2001,"India",4081,6
+2001,"Indonesia",561,6
+2001,"Iran (Islamic Republic of)",105,0
+2001,"Iraq",560,0
+2001,"Ireland",1,0
+2001,"Japan",11,0
+2001,"Kazakhstan",1,0
+2001,"Kenya",1001,55
+2001,"Liberia",1062,0
+2001,"Madagascar",7219,413
+2001,"Malawi",2395,42
+2001,"Malaysia",557,11
+2001,"Mali",67,9
+2001,"Mexico",1,0
+2001,"Micronesia (Federated States of)",14,0
+2001,"Mozambique",8794,102
+2001,"New Zealand",1,0
+2001,"Niger",81,1
+2001,"Nigeria",2312,119
+2001,"Oman",7,0
+2001,"Peru",494,0
+2001,"Philippines",174,0
+2001,"Republic of Korea",138,0
+2001,"Russian Federation",53,0
+2001,"Rwanda",157,2
+2001,"Singapore",8,0
+2001,"Somalia",2567,93
+2001,"South Africa",106159,232
+2001,"Spain",1,0
+2001,"Togo",2551,130
+2001,"Tonga",145,2
+2001,"Turkmenistan",561,6
+2001,"Uganda",247,4
+2001,"United Republic of Tanzania",1300,52
+2001,"United States of America",4,0
+2001,"Zambia",3109,165
+2001,"Zimbabwe",650,14
+2002,"Afghanistan",3,0
+2002,"Australia",5,0
+2002,"Austria",1,0
+2002,"Benin",270,13
+2002,"Burundi",577,8
+2002,"Cameroon",66,8
+2002,"Canada",4,0
+2002,"Comoros",1567,46
+2002,"Cote d'Ivoire",4188,143
+2002,"Czechia",2,0
+2002,"Democratic Republic of the Congo",31658,1979
+2002,"Eswatini",134,2
+2002,"France",1,0
+2002,"Gabon",6,0
+2002,"Germany",1,0
+2002,"Ghana",3614,65
+2002,"Guatemala",1,0
+2002,"Guinea",61,11
+2002,"Guinea-Bissau",842,6
+2002,"India",3455,10
+2002,"Iran (Islamic Republic of)",118,0
+2002,"Iraq",718,0
+2002,"Japan",27,0
+2002,"Kenya",291,10
+2002,"Liberia",1115,0
+2002,"Madagascar",27,0
+2002,"Malawi",32618,911
+2002,"Mali",18,2
+2002,"Mauritania",80,0
+2002,"Mozambique",24375,342
+2002,"Netherlands (Kingdom of the)",1,0
+2002,"Niger",236,12
+2002,"Nigeria",5429,154
+2002,"Oman",1,0
+2002,"Peru",16,0
+2002,"Qatar",1,0
+2002,"Saudi Arabia",38,0
+2002,"Singapore",2,0
+2002,"Somalia",2775,159
+2002,"South Africa",10004,32
+2002,"Spain",1,0
+2002,"Sri Lanka",9,1
+2002,"Togo",257,14
+2002,"Turkmenistan",30,2
+2002,"Uganda",2274,133
+2002,"United Arab Emirates",3,0
+2002,"United Republic of Tanzania",11920,297
+2002,"United States of America",2,0
+2002,"Zambia",339,12
+2002,"Zimbabwe",3125,192
+2003,"Afghanistan",41,7
+2003,"Benin",434,11
+2003,"Burkina Faso",1,0
+2003,"Burundi",432,18
+2003,"Cameroon",207,36
+2003,"Canada",5,0
+2003,"Chad",55,7
+2003,"China",223,1
+2003,"Comoros",56,0
+2003,"Cote d'Ivoire",1034,50
+2003,"Democratic Republic of the Congo",27272,989
+2003,"Ecuador",25,0
+2003,"Eswatini",32,13
+2003,"Gabon",629,0
+2003,"Germany",1,0
+2003,"Ghana",204,4
+2003,"Guatemala",1,0
+2003,"Guinea",6,1
+2003,"Guinea-Bissau",290,2
+2003,"India",2893,2
+2003,"Iran (Islamic Republic of)",96,0
+2003,"Iraq",187,0
+2003,"Japan",16,0
+2003,"Liberia",34740,38
+2003,"Madagascar",5,0
+2003,"Malawi",2736,34
+2003,"Mali",1455,119
+2003,"Mauritania",34,8
+2003,"Mozambique",13758,102
+2003,"Netherlands (Kingdom of the)",1,0
+2003,"Niger",292,11
+2003,"Nigeria",1933,87
+2003,"Rwanda",12,0
+2003,"Singapore",1,0
+2003,"Somalia",11020,56
+2003,"South Africa",3901,45
+2003,"Sweden",1,0
+2003,"Togo",384,28
+2003,"Uganda",4377,129
+2003,"United Kingdom of Great Britain and Northern Ireland",9,0
+2003,"United Republic of Tanzania",710,32
+2003,"United States of America",2,0
+2003,"Zambia",1049,29
+2003,"Zimbabwe",1009,35
+2004,"Australia",2,0
+2004,"Belgium",1,0
+2004,"Benin",642,9
+2004,"Brazil",21,0
+2004,"Burundi",819,14
+2004,"Cambodia",57,1
+2004,"Cameroon",8005,137
+2004,"Canada",3,0
+2004,"Central African Republic",320,48
+2004,"Chad",5531,272
+2004,"China",244,1
+2004,"Colombia",2,0
+2004,"Comoros",1,0
+2004,"Cote d'Ivoire",105,9
+2004,"Democratic Republic of the Congo",7665,228
+2004,"Denmark",1,0
+2004,"Ecuador",5,0
+2004,"Equatorial Guinea",59,1
+2004,"Eswatini",1075,16
+2004,"Ethiopia",16,0
+2004,"Germany",3,0
+2004,"Ghana",407,6
+2004,"Guinea",1516,117
+2004,"Guinea-Bissau",155,3
+2004,"India",4695,7
+2004,"Iran (Islamic Republic of)",94,1
+2004,"Iraq",35,0
+2004,"Japan",66,0
+2004,"Kenya",870,15
+2004,"Liberia",2786,4
+2004,"Malawi",675,4
+2004,"Malaysia",16,0
+2004,"Mali",2839,205
+2004,"Mozambique",20080,110
+2004,"Netherlands (Kingdom of the)",1,0
+2004,"Niger",2178,57
+2004,"Nigeria",3186,185
+2004,"Philippines",533,3
+2004,"Qatar",1,0
+2004,"Republic of Korea",10,0
+2004,"Russian Federation",1,0
+2004,"Rwanda",586,0
+2004,"Senegal",1227,10
+2004,"Sierra Leone",513,42
+2004,"Singapore",11,1
+2004,"Somalia",4490,26
+2004,"South Africa",2767,35
+2004,"Sweden",1,0
+2004,"Togo",1080,33
+2004,"Uganda",3380,91
+2004,"United Kingdom of Great Britain and Northern Ireland",13,0
+2004,"United Republic of Tanzania",10319,272
+2004,"United States of America",5,0
+2004,"Zambia",12149,373
+2004,"Zimbabwe",119,9
+2005,"Afghanistan",33,0
+2005,"Algeria",0,0
+2005,"Angola",0,0
+2005,"Australia",2,0
+2005,"Austria",1,0
+2005,"Belgium",2,0
+2005,"Benin",749,11
+2005,"Botswana",0,0
+2005,"Brazil",5,0
+2005,"Burkina Faso",1050,16
+2005,"Burundi",1309,18
+2005,"Cabo Verde",0,0
+2005,"Cameroon",2847,110
+2005,"Canada",7,0
+2005,"Central African Republic",0,0
+2005,"Chad",90,14
+2005,"China",980,4
+2005,"Comoros",0,0
+2005,"Congo",0,0
+2005,"Cote d'Ivoire",39,6
+2005,"Democratic Republic of the Congo",13430,244
+2005,"Equatorial Guinea",6391,33
+2005,"Eritrea",0,0
+2005,"Eswatini",0,0
+2005,"Ethiopia",0,0
+2005,"Finland",1,0
+2005,"Gabon",0,0
+2005,"Gambia",214,13
+2005,"Ghana",3166,51
+2005,"Guinea",3821,107
+2005,"Guinea-Bissau",25111,399
+2005,"India",3155,6
+2005,"Indonesia",1338,19
+2005,"Iran (Islamic Republic of)",1133,11
+2005,"Japan",43,0
+2005,"Kenya",816,21
+2005,"Lebanon",1,0
+2005,"Lesotho",0,0
+2005,"Liberia",3823,18
+2005,"Madagascar",0,0
+2005,"Malawi",1105,11
+2005,"Mali",1178,76
+2005,"Mauritania",4132,70
+2005,"Mauritius",0,0
+2005,"Micronesia (Federated States of)",0,0
+2005,"Mongolia",0,0
+2005,"Mozambique",2226,24
+2005,"Namibia",0,0
+2005,"Netherlands (Kingdom of the)",4,0
+2005,"New Zealand",1,0
+2005,"Niger",553,55
+2005,"Nigeria",4477,174
+2005,"Norway",1,0
+2005,"Papua New Guinea",0,0
+2005,"Philippines",139,2
+2005,"Poland",1,0
+2005,"Qatar",2,0
+2005,"Rwanda",89,0
+2005,"Sao Tome and Principe",1966,33
+2005,"Senegal",31719,458
+2005,"Seychelles",0,0
+2005,"Sierra Leone",6,0
+2005,"South Africa",3503,28
+2005,"Togo",1320,15
+2005,"Uganda",4924,98
+2005,"United Republic of Tanzania",2945,94
+2005,"United States of America",12,0
+2005,"Viet Nam",0,0
+2005,"Zambia",1503,7
+2005,"Zimbabwe",516,26
+2006,"Algeria",0,0
+2006,"Angola",67257,2722
+2006,"Australia",3,0
+2006,"Benin",91,1
+2006,"Botswana",0,0
+2006,"Burkina Faso",0,0
+2006,"Burundi",886,7
+2006,"Cabo Verde",0,0
+2006,"Cameroon",922,35
+2006,"Canada",2,0
+2006,"Central African Republic",0,0
+2006,"Chad",1668,71
+2006,"China",161,2
+2006,"Comoros",0,0
+2006,"Congo",175,10
+2006,"Cote d'Ivoire",414,15
+2006,"Democratic Republic of the Congo",20642,426
+2006,"Equatorial Guinea",0,0
+2006,"Eritrea",0,0
+2006,"Eswatini",18,0
+2006,"Ethiopia",54070,575
+2006,"France",2,0
+2006,"Gabon",0,0
+2006,"Gambia",0,0
+2006,"Germany",1,0
+2006,"Ghana",3357,107
+2006,"Guinea",3242,219
+2006,"Guinea-Bissau",37,0
+2006,"India",1939,3
+2006,"Italy",1,0
+2006,"Japan",34,0
+2006,"Kenya",870,11
+2006,"Lesotho",0,0
+2006,"Liberia",4929,17
+2006,"Madagascar",0,0
+2006,"Malawi",4148,55
+2006,"Malaysia",237,2
+2006,"Mali",7,0
+2006,"Mauritania",25,0
+2006,"Mauritius",0,0
+2006,"Mozambique",6306,29
+2006,"Namibia",185,5
+2006,"Netherlands (Kingdom of the)",3,0
+2006,"Niger",1232,81
+2006,"Nigeria",2028,127
+2006,"Norway",1,0
+2006,"Philippines",66,1
+2006,"Russian Federation",1,0
+2006,"Rwanda",405,21
+2006,"Sao Tome and Principe",926,9
+2006,"Senegal",365,10
+2006,"Seychelles",0,0
+2006,"Sierra Leone",2560,99
+2006,"South Africa",0,0
+2006,"Spain",2,0
+2006,"Sudan",30662,1011
+2006,"Sweden",1,0
+2006,"Switzerland",1,0
+2006,"Thailand",35,0
+2006,"Togo",1159,25
+2006,"Uganda",5194,106
+2006,"United Kingdom of Great Britain and Northern Ireland",49,0
+2006,"United Republic of Tanzania",14297,254
+2006,"United States of America",8,0
+2006,"Zambia",5360,183
+2006,"Zimbabwe",789,61
+2007,"Angola",18422,513
+2007,"Australia",3,0
+2007,"Burundi",365,2
+2007,"Cameroon",10,1
+2007,"Canada",1,0
+2007,"Chad",0,0
+2007,"China",168,0
+2007,"Comoros",1555,29
+2007,"Congo",7785,133
+2007,"Cote d'Ivoire",8,1
+2007,"Democratic Republic of the Congo",28269,600
+2007,"Djibouti",1087,27
+2007,"Eritrea",119,9
+2007,"Eswatini",0,0
+2007,"Ethiopia",24121,272
+2007,"France",4,0
+2007,"Gambia",12,1
+2007,"Germany",2,0
+2007,"Ghana",179,18
+2007,"Guinea",8546,311
+2007,"Guinea-Bissau",153,8
+2007,"India",2635,3
+2007,"Iran (Islamic Republic of)",19,0
+2007,"Iraq",4697,24
+2007,"Italy",1,0
+2007,"Japan",0,0
+2007,"Kenya",1206,67
+2007,"Lao People's Democratic Republic",169,3
+2007,"Liberia",3063,7
+2007,"Malawi",475,5
+2007,"Malaysia",0,0
+2007,"Mauritania",3,0
+2007,"Mozambique",2622,22
+2007,"Namibia",14,0
+2007,"Nepal",264,0
+2007,"Niger",24,2
+2007,"Nigeria",1661,48
+2007,"Norway",1,0
+2007,"Philippines",0,0
+2007,"Russian Federation",1,0
+2007,"Rwanda",1453,21
+2007,"Sao Tome and Principe",90,0
+2007,"Senegal",3984,24
+2007,"Seychelles",178,1
+2007,"Sierra Leone",2219,84
+2007,"Slovenia",0,0
+2007,"Somalia",41643,1182
+2007,"Spain",2,0
+2007,"Sudan",13731,500
+2007,"Thailand",1428,7
+2007,"Togo",65,1
+2007,"Uganda",276,3
+2007,"Ukraine",0,0
+2007,"United Kingdom of Great Britain and Northern Ireland",32,0
+2007,"United Republic of Tanzania",1609,65
+2007,"United States of America",7,0
+2007,"Viet Nam",1946,0
+2007,"Zambia",2286,35
+2007,"Zimbabwe",65,4
+2008,"Afghanistan",4384,22
+2008,"Angola",10511,243
+2008,"Benin",985,5
+2008,"Botswana",8,1
+2008,"Burkina Faso",0,0
+2008,"Burundi",234,4
+2008,"Cameroon",0,0
+2008,"Canada",1,0
+2008,"China",174,0
+2008,"Comoros",4,0
+2008,"Congo",156,4
+2008,"Cote d'Ivoire",7,1
+2008,"Democratic Republic of the Congo",30150,548
+2008,"Denmark",1,0
+2008,"Eritrea",1,0
+2008,"Eswatini",1,0
+2008,"Ethiopia",3862,23
+2008,"Finland",1,0
+2008,"France",2,0
+2008,"Gabon",2,0
+2008,"Gambia",1,0
+2008,"Ghana",1223,25
+2008,"Guinea",513,32
+2008,"Guinea-Bissau",14323,225
+2008,"India",2680,1
+2008,"Indonesia",1007,27
+2008,"Iran (Islamic Republic of)",72,4
+2008,"Iraq",925,11
+2008,"Kazakhstan",1,0
+2008,"Kenya",3091,113
+2008,"Lao People's Democratic Republic",201,0
+2008,"Liberia",1236,3
+2008,"Malawi",831,26
+2008,"Mali",153,5
+2008,"Mexico",1,0
+2008,"Mozambique",9087,102
+2008,"Myanmar",45,1
+2008,"Namibia",3496,38
+2008,"Netherlands (Kingdom of the)",5,0
+2008,"Niger",972,70
+2008,"Nigeria",5410,247
+2008,"Rwanda",23,0
+2008,"Sao Tome and Principe",119,4
+2008,"Senegal",1283,20
+2008,"Seychelles",0,0
+2008,"Sierra Leone",62,1
+2008,"Somalia",1281,16
+2008,"South Africa",3907,22
+2008,"Spain",5,0
+2008,"Sudan",17241,118
+2008,"Thailand",436,3
+2008,"Togo",397,3
+2008,"Uganda",3726,120
+2008,"United Kingdom of Great Britain and Northern Ireland",8,0
+2008,"United Republic of Tanzania",2911,88
+2008,"United States of America",5,0
+2008,"Viet Nam",853,0
+2008,"Zambia",2061,39
+2008,"Zimbabwe",60055,2928
+2009,"Afghanistan",662,11
+2009,"Angola",2019,88
+2009,"Benin",74,1
+2009,"Botswana",15,2
+2009,"Burundi",355,0
+2009,"Cambodia",39,0
+2009,"Cameroon",804,89
+2009,"Canada",2,0
+2009,"Chad",67,6
+2009,"China",85,0
+2009,"Congo",93,0
+2009,"Cote d'Ivoire",5,2
+2009,"Democratic Republic of the Congo",22899,237
+2009,"Eswatini",19,0
+2009,"Ethiopia",31509,434
+2009,"France",1,0
+2009,"Ghana",1294,9
+2009,"Guinea",42,0
+2009,"Guinea-Bissau",5,0
+2009,"Iraq",6,0
+2009,"Kenya",11425,264
+2009,"Liberia",1070,2
+2009,"Malawi",5751,125
+2009,"Malaysia",187,1
+2009,"Mozambique",19679,155
+2009,"Namibia",159,3
+2009,"Nepal",82,0
+2009,"Nigeria",13691,431
+2009,"Papua New Guinea",1957,45
+2009,"Paraguay",5,0
+2009,"Rwanda",67,0
+2009,"Senegal",4,0
+2009,"Somalia",208,3
+2009,"South Africa",10520,57
+2009,"Sudan",13681,52
+2009,"Thailand",315,2
+2009,"Togo",218,1
+2009,"Uganda",1095,23
+2009,"United Kingdom of Great Britain and Northern Ireland",16,0
+2009,"United Republic of Tanzania",7700,113
+2009,"United States of America",10,0
+2009,"Viet Nam",471,1
+2009,"Yemen",55,3
+2009,"Zambia",4712,80
+2009,"Zimbabwe",68153,2706
+2010,"Afghanistan",2369,10
+2010,"Angola",1484,30
+2010,"Australia",3,0
+2010,"Benin",983,8
+2010,"Burundi",333,1
+2010,"Cambodia",588,1
+2010,"Cameroon",10759,657
+2010,"Canada",2,0
+2010,"Chad",6395,175
+2010,"China",157,0
+2010,"Cote d'Ivoire",32,0
+2010,"Democratic Republic of the Congo",13884,182
+2010,"Djibouti",2047,19
+2010,"Dominican Republic",191,0
+2010,"Ethiopia",1682,21
+2010,"Germany",4,1
+2010,"Ghana",438,3
+2010,"Haiti",179379,3990
+2010,"India",5155,9
+2010,"Iraq",2,0
+2010,"Kenya",3188,63
+2010,"Lao People's Democratic Republic",237,4
+2010,"Liberia",1546,0
+2010,"Malawi",1155,17
+2010,"Malaysia",443,6
+2010,"Mexico",1,0
+2010,"Mozambique",7430,117
+2010,"Nepal",1790,9
+2010,"Niger",1154,66
+2010,"Nigeria",44456,1712
+2010,"Pakistan",164,0
+2010,"Papua New Guinea",8997,95
+2010,"Philippines",33,2
+2010,"Republic of Korea",1,0
+2010,"Russian Federation",3,0
+2010,"Senegal",3,0
+2010,"Somalia",3510,103
+2010,"Thailand",1974,15
+2010,"Togo",72,3
+2010,"Uganda",2341,78
+2010,"United Kingdom of Great Britain and Northern Ireland",8,0
+2010,"United Republic of Tanzania",4469,59
+2010,"United States of America",15,0
+2010,"Viet Nam",606,0
+2010,"Yemen",300,4
+2010,"Zambia",6794,62
+2010,"Zimbabwe",951,21
+2011,"Afghanistan",3733,44
+2011,"Angola",1810,110
+2011,"Australia",6,0
+2011,"Bahamas",1,0
+2011,"Benin",755,4
+2011,"Brazil",1,0
+2011,"Brunei Darussalam",3,0
+2011,"Burkina Faso",20,2
+2011,"Burundi",1072,1
+2011,"Cambodia",0,0
+2011,"Cameroon",22433,783
+2011,"Canada",9,0
+2011,"Central African Republic",117,15
+2011,"Chad",17267,458
+2011,"Chile",1,0
+2011,"China",26,0
+2011,"Congo",762,0
+2011,"Cote d'Ivoire",1261,24
+2011,"Democratic Republic of the Congo",21700,584
+2011,"Djibouti",127,1
+2011,"Dominican Republic",20851,336
+2011,"France",1,0
+2011,"Germany",4,0
+2011,"Ghana",10628,105
+2011,"Guinea",3,0
+2011,"Haiti",340311,2869
+2011,"Iran (Islamic Republic of)",1187,12
+2011,"Japan",12,0
+2011,"Kenya",74,2
+2011,"Liberia",1146,0
+2011,"Malawi",120,4
+2011,"Malaysia",586,10
+2011,"Mali",2220,95
+2011,"Mauritania",46,3
+2011,"Mexico",1,0
+2011,"Mozambique",1279,5
+2011,"Myanmar",16,0
+2011,"Nepal",12,0
+2011,"Niger",2324,60
+2011,"Nigeria",23377,742
+2011,"Pakistan",527,219
+2011,"Papua New Guinea",1535,2
+2011,"Philippines",120,3
+2011,"Republic of Korea",3,0
+2011,"Senegal",5,0
+2011,"Singapore",2,0
+2011,"Somalia",77636,1130
+2011,"Sweden",1,0
+2011,"Thailand",279,4
+2011,"Togo",4,0
+2011,"Ukraine",33,0
+2011,"United Kingdom of Great Britain and Northern Ireland",32,0
+2011,"United Republic of Tanzania",942,11
+2011,"United States of America",42,0
+2011,"Venezuela (Bolivarian Republic of)",49,0
+2011,"Viet Nam",3,0
+2011,"Yemen",31789,134
+2011,"Zambia",330,7
+2011,"Zimbabwe",1220,2
+2012,"Afghanistan",12,0
+2012,"Angola",1215,98
+2012,"Australia",5,0
+2012,"Bahamas",1,0
+2012,"Benin",625,3
+2012,"Burkina Faso",143,7
+2012,"Burundi",214,1
+2012,"Cameroon",363,5
+2012,"Central African Republic",21,0
+2012,"China",77,0
+2012,"Congo",1181,37
+2012,"Cote d'Ivoire",424,19
+2012,"Cuba",417,3
+2012,"Democratic Republic of the Congo",33661,819
+2012,"Dominican Republic",7919,68
+2012,"Ghana",9548,100
+2012,"Guinea",7350,133
+2012,"Guinea-Bissau",3068,22
+2012,"Haiti",112076,894
+2012,"Iran (Islamic Republic of)",53,0
+2012,"Iraq",4693,4
+2012,"Japan",3,0
+2012,"Liberia",219,0
+2012,"Malawi",187,2
+2012,"Malaysia",282,1
+2012,"Mali",219,19
+2012,"Mexico",2,0
+2012,"Mozambique",647,7
+2012,"Myanmar",174,0
+2012,"Nepal",34,0
+2012,"Niger",5284,110
+2012,"Nigeria",597,18
+2012,"Pakistan",144,8
+2012,"Philippines",1864,14
+2012,"Russian Federation",1,0
+2012,"Rwanda",9,0
+2012,"Senegal",1,0
+2012,"Sierra Leone",23124,299
+2012,"Singapore",2,0
+2012,"Somalia",22576,200
+2012,"Thailand",29,0
+2012,"Togo",61,1
+2012,"Uganda",6326,135
+2012,"United Kingdom of Great Britain and Northern Ireland",17,0
+2012,"United Republic of Tanzania",286,4
+2012,"United States of America",18,0
+2012,"Zambia",198,2
+2012,"Zimbabwe",23,1
+2013,"Afghanistan",3957,14
+2013,"Angola",6655,86
+2013,"Australia",3,0
+2013,"Benin",528,6
+2013,"Burundi",1557,17
+2013,"Cameroon",29,0
+2013,"Canada",1,0
+2013,"Chile",2,0
+2013,"China",53,1
+2013,"Congo",1624,221
+2013,"Cote d'Ivoire",56,2
+2013,"Cuba",181,0
+2013,"Democratic Republic of the Congo",26944,491
+2013,"Dominican Republic",1954,42
+2013,"Ghana",50,0
+2013,"Guinea",319,32
+2013,"Guinea-Bissau",969,28
+2013,"Haiti",58809,593
+2013,"India",6008,54
+2013,"Iran (Islamic Republic of)",256,7
+2013,"Iraq",1,0
+2013,"Israel",1,0
+2013,"Italy",1,0
+2013,"Japan",8,0
+2013,"Liberia",92,0
+2013,"Malaysia",171,1
+2013,"Mali",23,2
+2013,"Mexico",187,1
+2013,"Mozambique",1869,19
+2013,"Myanmar",33,0
+2013,"Namibia",3,0
+2013,"Niger",585,13
+2013,"Nigeria",6600,229
+2013,"Pakistan",1069,23
+2013,"Philippines",6,0
+2013,"Republic of Korea",3,0
+2013,"Sierra Leone",377,32
+2013,"Singapore",2,0
+2013,"Somalia",6864,140
+2013,"South Africa",1,0
+2013,"Thailand",8,0
+2013,"Togo",166,4
+2013,"Uganda",748,27
+2013,"United Kingdom of Great Britain and Northern Ireland",6,0
+2013,"United Republic of Tanzania",270,17
+2013,"United States of America",14,0
+2013,"Venezuela (Bolivarian Republic of)",4,0
+2014,"Afghanistan",45481,4
+2014,"Angola",213,3
+2014,"Australia",2,0
+2014,"Benin",832,12
+2014,"Burundi",582,9
+2014,"Cameroon",3355,184
+2014,"Canada",2,0
+2014,"Chile",1,0
+2014,"China",24,0
+2014,"Cote d'Ivoire",235,12
+2014,"Cuba",76,0
+2014,"Democratic Republic of the Congo",22203,372
+2014,"Dominican Republic",603,11
+2014,"France",1,0
+2014,"Germany",1,0
+2014,"Ghana",28944,243
+2014,"Guinea",1,0
+2014,"Guinea-Bissau",11,2
+2014,"Haiti",27753,296
+2014,"India",4031,21
+2014,"Japan",5,0
+2014,"Kenya",35,9
+2014,"Liberia",44,0
+2014,"Malaysia",134,1
+2014,"Mexico",14,0
+2014,"Mozambique",480,1
+2014,"Myanmar",400,0
+2014,"Namibia",485,13
+2014,"Nepal",933,2
+2014,"Niger",2059,80
+2014,"Nigeria",35996,755
+2014,"Pakistan",1218,6
+2014,"Philippines",4547,8
+2014,"Russian Federation",1,0
+2014,"Singapore",2,0
+2014,"Somalia",2820,0
+2014,"South Sudan",6421,167
+2014,"Thailand",12,0
+2014,"Togo",262,11
+2014,"Uganda",309,9
+2014,"United Kingdom of Great Britain and Northern Ireland",14,0
+2014,"United States of America",7,0
+2015,"Afghanistan",58064,8
+2015,"Australia",2,0
+2015,"Bahrain",8,0
+2015,"Burundi",442,0
+2015,"Cameroon",124,6
+2015,"Canada",3,0
+2015,"China",13,0
+2015,"Cote d'Ivoire",199,6
+2015,"Cuba",65,0
+2015,"Democratic Republic of the Congo",19182,276
+2015,"Dominican Republic",546,15
+2015,"France",1,0
+2015,"Ghana",692,8
+2015,"Haiti",36045,322
+2015,"India",889,4
+2015,"Iran (Islamic Republic of)",86,1
+2015,"Iraq",4965,2
+2015,"Japan",7,0
+2015,"Kenya",13291,67
+2015,"Kuwait",5,0
+2015,"Malawi",693,11
+2015,"Malaysia",244,2
+2015,"Mexico",1,0
+2015,"Mozambique",8739,64
+2015,"Myanmar",103,12
+2015,"Nepal",80,0
+2015,"Niger",51,4
+2015,"Nigeria",5290,186
+2015,"Norway",1,0
+2015,"Oman",1,0
+2015,"Somalia",7536,84
+2015,"South Sudan",1818,47
+2015,"Spain",2,0
+2015,"Sweden",1,0
+2015,"Switzerland",2,0
+2015,"Thailand",125,1
+2015,"Togo",35,1
+2015,"Uganda",1461,33
+2015,"United Kingdom of Great Britain and Northern Ireland",15,0
+2015,"United Republic of Tanzania",11563,144
+2015,"United States of America",4,0
+2015,"Zimbabwe",60,0
+2016,"Afghanistan",677,5
+2016,"Angola",78,3
+2016,"Australia",1,0
+2016,"Benin",761,13
+2016,"Burundi",434,5
+2016,"Canada",1,0
+2016,"China",27,0
+2016,"Congo",15,2
+2016,"Democratic Republic of the Congo",28093,759
+2016,"Denmark",1,0
+2016,"Dominican Republic",1159,27
+2016,"Germany",1,0
+2016,"Ghana",175,0
+2016,"Haiti",41421,447
+2016,"India",841,3
+2016,"Iraq",0,0
+2016,"Japan",10,0
+2016,"Kenya",5866,80
+2016,"Malawi",1792,46
+2016,"Mozambique",883,2
+2016,"Myanmar",782,11
+2016,"Nepal",169,0
+2016,"Netherlands (Kingdom of the)",1,0
+2016,"Niger",38,6
+2016,"Nigeria",768,32
+2016,"Philippines",124,0
+2016,"Republic of Korea",4,0
+2016,"Rwanda",355,0
+2016,"Somalia",15619,548
+2016,"South Sudan",4295,82
+2016,"Thailand",52,1
+2016,"Uganda",516,11
+2016,"United Kingdom of Great Britain and Northern Ireland",19,0
+2016,"United Republic of Tanzania",11360,172
+2016,"United States of America",14,0
+2016,"Yemen",15751,164
+2016,"Zimbabwe",10,1
