@@ -1,7 +1,6 @@
 ## **Stages of the internship**
 Each stage of the internship is packed with learning and practical different mini-projects and final projects. All learning and mini-project teach you, improve your skills, and build your confidence to efficiently solve the final project.
- 
-⚠️The tasks for each stage depend on the learning track you will be working on. Also, this is not a fixed setup; expect a few variations here and there. However, here is what each stage is all about. 
+
 
 ---
 
