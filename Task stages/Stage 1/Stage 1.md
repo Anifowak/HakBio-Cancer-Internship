@@ -1,4 +1,6 @@
-TCGAplot: an R package for integrative pan-cancer analysis and visualization of TCGA multi-omics data
+## **TCGAplot: an R package for integrative pan-cancer analysis and visualization of TCGA multi-omics data**
+
+---
 
 The TCGAplot R package tool is designed to facilitate comprehensive analysis and visualization of multi-omics data derived from The Cancer Genome Atlas (TCGA), one of the largest and most comprehensive cancer genomics databases available. It includes 33 distinct cancer types for over 20,000 samples, covering exome, RNA, microRNA, copy number variation, proteome, and methylome sequencing (Cancer Genome Atlas Research, 2013).
 
@@ -8,7 +10,7 @@ Furthermore, the TCGAplot has multiple applications in a therapeutic context. Re
 
 The TCGAplot R package represents a significant contribution to the field of cancer research by providing a powerful tool for integrative pan-cancer analysis. Its ability to synthesize multi-omics data facilitates a deeper understanding of cancer biology, ultimately supporting the development of targeted therapies and improving clinical outcomes.
 
-**REFERENCES**
+## **REFERENCES**
 
 He X, Liu X, Zuo F, Shi H, Jing J. Artificial intelligence-based multi-omics analysis fuels cancer precision medicine. Semin Cancer Biol. 2023; 88:187–200.
 
@@ -18,22 +20,18 @@ Liao, C., & Wang, X. (2023). TCGAplot: An R package for integrative pan-cancer a
 
  
 
-Team Members Names
+## **Team Members Names**
 
-Tomilayo Oluwaseun Fadairo  - Team Leader
-
-Slack ID: @TomiDbeloved
-
-Akinjide Samuel Anifowose
-
+- **Akinjide Samuel Anifowose**
 Slack ID: @SammieAA
 
-Opeoluwa Shodipe
+- **Tomilayo Oluwaseun Fadairo**
+Slack ID: @TomiDbeloved
 
+- **Opeoluwa Shodipe**
 Slack ID: @Eaden
 
-Jesse Frank Juma
-
+- **Jesse Frank Juma**
 Slack ID: @Jesse
 
-Video link.
+[Video link](https://www.linkedin.com/posts/tomilayo-fadairo-aa4518248_cancerresearch-tcgaplot-rpackage-activity-7238311181029937152--nWc?utm_source=share&utm_medium=member_ios)
