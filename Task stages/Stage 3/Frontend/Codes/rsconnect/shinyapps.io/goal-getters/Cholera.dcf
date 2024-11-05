@@ -1,0 +1,13 @@
+name: Cholera
+title:
+username: goal-getters
+account: goal-getters
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12783355
+bundleId: 9136574
+url: https://goal-getters.shinyapps.io/Cholera/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: styles
